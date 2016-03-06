@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<preset version="2.0.0">
+    <name>Dante Config 160103</name>
+    <description>Dante Controller preset</description>
+    <device>
+        <name>SanctuaryMixer</name>
+        <default_name>AllenHth-0ba986</default_name>
+        <instance_id>
+            <device_id>001DC10BA9860000</device_id>
+            <process_id>0</process_id>
+        </instance_id>
+        <manufacturer_id>416C6C656E487468</manufacturer_id>
+        <manufacturer_name>Allen-Heath</manufacturer_name>
+        <model_id>0000000000000001</model_id>
+        <model_name>Dante Option Card</model_name>
+        <model_version>3.7.0</model_version>
+        <device_type>426B6C796E320000</device_type>
+        <device_type_string>Brooklyn II</device_type_string>
+        <friendly_name>SanctuaryMixer</friendly_name>
+        <redundancy value="true"/>
+        <preferred_master value="false"/>
+        <external_word_clock value="false"/>
+        <samplerate>48000</samplerate>
+        <unicast_latency>2000</unicast_latency>
+        <interface network="0">
+            <ipv4_address mode="dynamic"/>
+        </interface>
+        <interface network="1">
+            <ipv4_address mode="dynamic"/>
+        </interface>
+        <txchannel danteId="1"/>
+        <txchannel danteId="2"/>
+        <txchannel danteId="3">
+            <label>Pulp</label>
+        </txchannel>
+        <txchannel danteId="4">
+            <label>Comu</label>
+        </txchannel>
+        <txchannel danteId="5">
+            <label>Pno</label>
+        </txchannel>
+        <txchannel danteId="6">
+            <label>X</label>
+        </txchannel>
+        <txchannel danteId="7">
+            <label>MenC</label>
+        </txchannel>
+        <txchannel danteId="8">
+            <label>MDC</label>
+        </txchannel>
+        <txchannel danteId="9">
+            <label>Hand</label>
+        </txchannel>
+        <txchannel danteId="10">
+            <label>Liam</label>
+        </txchannel>
+        <txchannel danteId="11">
+            <label>CongL</label>
+        </txchannel>
+        <txchannel danteId="12">
+            <label>CongR</label>
+        </txchannel>
+        <txchannel danteId="13">
+            <label>Horn</label>
+        </txchannel>
+        <txchannel danteId="14">
+            <label>Bone</label>
+        </txchannel>
+        <txchannel danteId="15">
+            <label>Choir</label>
+        </txchannel>
+        <txchannel danteId="16"/>
+        <txchannel danteId="17">
+            <label>BalcL</label>
+        </txchannel>
+        <txchannel danteId="18">
+            <label>BalcR</label>
+        </txchannel>
+        <txchannel danteId="19"/>
+        <txchannel danteId="20"/>
+        <txchannel danteId="21">
+            <label>ChrL</label>
+        </txchannel>
+        <txchannel danteId="22">
+            <label>ChrR</label>
+        </txchannel>
+        <txchannel danteId="23">
+            <label>Solo</label>
+        </txchannel>
+        <txchannel danteId="24">
+            <label>ArrayL</label>
+        </txchannel>
+        <txchannel danteId="25">
+            <label>ArrayR</label>
+        </txchannel>
+        <txchannel danteId="26">
+            <label>Clo</label>
+        </txchannel>
+        <txchannel danteId="27">
+            <label>Bass</label>
+        </txchannel>
+        <txchannel danteId="28">
+            <label>Oboe</label>
+        </txchannel>
+        <txchannel danteId="29">
+            <label>Tr1</label>
+        </txchannel>
+        <txchannel danteId="30">
+            <label>Tr2</label>
+        </txchannel>
+        <txchannel danteId="31">
+            <label>Vla</label>
+        </txchannel>
+        <txchannel danteId="32"/>
+        <txchannel danteId="33">
+            <label>MP3L</label>
+        </txchannel>
+        <txchannel danteId="34">
+            <label>MP3R</label>
+        </txchannel>
+        <txchannel danteId="35">
+            <label>Vln1</label>
+        </txchannel>
+        <txchannel danteId="36">
+            <label>Vln2</label>
+        </txchannel>
+        <txchannel danteId="37">
+            <label>Tuba</label>
+        </txchannel>
+        <txchannel danteId="38">
+            <label>Perc</label>
+        </txchannel>
+        <txchannel danteId="39"/>
+        <txchannel danteId="40"/>
+        <txchannel danteId="41"/>
+        <txchannel danteId="42"/>
+        <txchannel danteId="43"/>
+        <txchannel danteId="44"/>
+        <txchannel danteId="45"/>
+        <txchannel danteId="46"/>
+        <txchannel danteId="47"/>
+        <txchannel danteId="48"/>
+        <txchannel danteId="49">
+            <label>RecL</label>
+        </txchannel>
+        <txchannel danteId="50">
+            <label>RecR</label>
+        </txchannel>
+        <txchannel danteId="51">
+            <label>WebL</label>
+        </txchannel>
+        <txchannel danteId="52">
+            <label>WebR</label>
+        </txchannel>
+        <txchannel danteId="53"/>
+        <txchannel danteId="54"/>
+        <txchannel danteId="55"/>
+        <txchannel danteId="56"/>
+        <txchannel danteId="57">
+            <label>ExpanderOut1</label>
+        </txchannel>
+        <txchannel danteId="58">
+            <label>ExpanderOut2</label>
+        </txchannel>
+        <txchannel danteId="59">
+            <label>ExpanderOut3</label>
+        </txchannel>
+        <txchannel danteId="60">
+            <label>ExpanderOut4</label>
+        </txchannel>
+        <txchannel danteId="61">
+            <label>ExpanderOut5</label>
+        </txchannel>
+        <txchannel danteId="62">
+            <label>ExpanderOut6</label>
+        </txchannel>
+        <txchannel danteId="63">
+            <label>ExpanderOut7</label>
+        </txchannel>
+        <txchannel danteId="64">
+            <label>ExpanderOut8</label>
+        </txchannel>
+        <rxchannel danteId="1">
+            <name>01</name>
+            <subscribed_channel>L</subscribed_channel>
+            <subscribed_device>SanctuarySoundPC</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+            <subscribed_channel>R</subscribed_channel>
+            <subscribed_device>SanctuarySoundPC</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+            <subscribed_channel>03</subscribed_channel>
+            <subscribed_device>JamesHP</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+            <subscribed_channel>04</subscribed_channel>
+            <subscribed_device>JamesHP</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+        <rxchannel danteId="17">
+            <name>17</name>
+        </rxchannel>
+        <rxchannel danteId="18">
+            <name>18</name>
+        </rxchannel>
+        <rxchannel danteId="19">
+            <name>19</name>
+        </rxchannel>
+        <rxchannel danteId="20">
+            <name>20</name>
+        </rxchannel>
+        <rxchannel danteId="21">
+            <name>21</name>
+        </rxchannel>
+        <rxchannel danteId="22">
+            <name>22</name>
+        </rxchannel>
+        <rxchannel danteId="23">
+            <name>23</name>
+        </rxchannel>
+        <rxchannel danteId="24">
+            <name>24</name>
+        </rxchannel>
+        <rxchannel danteId="25">
+            <name>25</name>
+        </rxchannel>
+        <rxchannel danteId="26">
+            <name>26</name>
+        </rxchannel>
+        <rxchannel danteId="27">
+            <name>27</name>
+        </rxchannel>
+        <rxchannel danteId="28">
+            <name>28</name>
+        </rxchannel>
+        <rxchannel danteId="29">
+            <name>29</name>
+        </rxchannel>
+        <rxchannel danteId="30">
+            <name>30</name>
+        </rxchannel>
+        <rxchannel danteId="31">
+            <name>31</name>
+        </rxchannel>
+        <rxchannel danteId="32">
+            <name>32</name>
+        </rxchannel>
+        <rxchannel danteId="33">
+            <name>33</name>
+        </rxchannel>
+        <rxchannel danteId="34">
+            <name>34</name>
+        </rxchannel>
+        <rxchannel danteId="35">
+            <name>35</name>
+        </rxchannel>
+        <rxchannel danteId="36">
+            <name>36</name>
+        </rxchannel>
+        <rxchannel danteId="37">
+            <name>37</name>
+        </rxchannel>
+        <rxchannel danteId="38">
+            <name>38</name>
+        </rxchannel>
+        <rxchannel danteId="39">
+            <name>39</name>
+        </rxchannel>
+        <rxchannel danteId="40">
+            <name>40</name>
+        </rxchannel>
+        <rxchannel danteId="41">
+            <name>41</name>
+        </rxchannel>
+        <rxchannel danteId="42">
+            <name>42</name>
+        </rxchannel>
+        <rxchannel danteId="43">
+            <name>43</name>
+        </rxchannel>
+        <rxchannel danteId="44">
+            <name>44</name>
+        </rxchannel>
+        <rxchannel danteId="45">
+            <name>45</name>
+        </rxchannel>
+        <rxchannel danteId="46">
+            <name>46</name>
+        </rxchannel>
+        <rxchannel danteId="47">
+            <name>47</name>
+        </rxchannel>
+        <rxchannel danteId="48">
+            <name>48</name>
+        </rxchannel>
+        <rxchannel danteId="49">
+            <name>49</name>
+        </rxchannel>
+        <rxchannel danteId="50">
+            <name>50</name>
+        </rxchannel>
+        <rxchannel danteId="51">
+            <name>51</name>
+        </rxchannel>
+        <rxchannel danteId="52">
+            <name>52</name>
+        </rxchannel>
+        <rxchannel danteId="53">
+            <name>53</name>
+        </rxchannel>
+        <rxchannel danteId="54">
+            <name>54</name>
+        </rxchannel>
+        <rxchannel danteId="55">
+            <name>55</name>
+        </rxchannel>
+        <rxchannel danteId="56">
+            <name>56</name>
+        </rxchannel>
+        <rxchannel danteId="57">
+            <name>57</name>
+        </rxchannel>
+        <rxchannel danteId="58">
+            <name>58</name>
+        </rxchannel>
+        <rxchannel danteId="59">
+            <name>59</name>
+        </rxchannel>
+        <rxchannel danteId="60">
+            <name>60</name>
+        </rxchannel>
+        <rxchannel danteId="61">
+            <name>61</name>
+        </rxchannel>
+        <rxchannel danteId="62">
+            <name>62</name>
+        </rxchannel>
+        <rxchannel danteId="63">
+            <name>63</name>
+        </rxchannel>
+        <rxchannel danteId="64">
+            <name>64</name>
+        </rxchannel>
+    </device>
+    <device>
+        <name>SanctuarySoundPC</name>
+        <default_name>WEBCAST</default_name>
+        <instance_id>
+            <device_id>0013720C39CA0000</device_id>
+            <process_id>0</process_id>
+        </instance_id>
+        <device_type>44767357696E0000</device_type>
+        <friendly_name>SanctuarySoundPC</friendly_name>
+        <clock_pullup value="0"/>
+        <samplerate>48000</samplerate>
+        <encoding>24</encoding>
+        <unicast_latency>10000</unicast_latency>
+        <interface network="0"/>
+        <txchannel danteId="1">
+            <label>L</label>
+        </txchannel>
+        <txchannel danteId="2">
+            <label>R</label>
+        </txchannel>
+        <txchannel danteId="3"/>
+        <txchannel danteId="4"/>
+        <txchannel danteId="5"/>
+        <txchannel danteId="6"/>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
+        <txchannel danteId="9"/>
+        <txchannel danteId="10"/>
+        <txchannel danteId="11"/>
+        <txchannel danteId="12"/>
+        <txchannel danteId="13"/>
+        <txchannel danteId="14"/>
+        <txchannel danteId="15"/>
+        <txchannel danteId="16"/>
+        <rxchannel danteId="1">
+            <name>01</name>
+            <subscribed_channel>RecL</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+            <subscribed_channel>RecR</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+            <subscribed_channel>Pulp</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+            <subscribed_channel>Liam</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+            <subscribed_channel>Liam</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+    </device>
+    <device>
+        <name>SanctuaryWebcastPC</name>
+        <default_name>WS0</default_name>
+        <instance_id>
+            <device_id>D050997BC98E0000</device_id>
+            <process_id>0</process_id>
+        </instance_id>
+        <device_type>44767357696E0000</device_type>
+        <friendly_name>SanctuaryWebcastPC</friendly_name>
+        <samplerate>48000</samplerate>
+        <encoding>24</encoding>
+        <unicast_latency>10000</unicast_latency>
+        <interface network="0"/>
+        <txchannel danteId="1"/>
+        <txchannel danteId="2"/>
+        <txchannel danteId="3"/>
+        <txchannel danteId="4"/>
+        <txchannel danteId="5"/>
+        <txchannel danteId="6"/>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
+        <txchannel danteId="9"/>
+        <txchannel danteId="10"/>
+        <txchannel danteId="11"/>
+        <txchannel danteId="12"/>
+        <txchannel danteId="13"/>
+        <txchannel danteId="14"/>
+        <txchannel danteId="15"/>
+        <txchannel danteId="16"/>
+        <rxchannel danteId="1">
+            <name>01</name>
+            <subscribed_channel>WebL</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="2">
+            <name>02</name>
+            <subscribed_channel>WebR</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
+        </rxchannel>
+        <rxchannel danteId="3">
+            <name>03</name>
+        </rxchannel>
+        <rxchannel danteId="4">
+            <name>04</name>
+        </rxchannel>
+        <rxchannel danteId="5">
+            <name>05</name>
+        </rxchannel>
+        <rxchannel danteId="6">
+            <name>06</name>
+        </rxchannel>
+        <rxchannel danteId="7">
+            <name>07</name>
+        </rxchannel>
+        <rxchannel danteId="8">
+            <name>08</name>
+        </rxchannel>
+        <rxchannel danteId="9">
+            <name>09</name>
+        </rxchannel>
+        <rxchannel danteId="10">
+            <name>10</name>
+        </rxchannel>
+        <rxchannel danteId="11">
+            <name>11</name>
+        </rxchannel>
+        <rxchannel danteId="12">
+            <name>12</name>
+        </rxchannel>
+        <rxchannel danteId="13">
+            <name>13</name>
+        </rxchannel>
+        <rxchannel danteId="14">
+            <name>14</name>
+        </rxchannel>
+        <rxchannel danteId="15">
+            <name>15</name>
+        </rxchannel>
+        <rxchannel danteId="16">
+            <name>16</name>
+        </rxchannel>
+    </device>
+</preset>
