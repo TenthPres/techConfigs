@@ -22,4 +22,4 @@ echo "Starting Reaper..."
 
 Start "" "c:\Program Files\REAPER\reaper.exe" -template "C:\Users\User\Google Drive\Configurations\template.rpp" -saveas "C:\Users\User\Google Drive\SundayServices\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
 
-msg "%username%" When you leave, please keep both computers turned on. (This time, and any other time this happy little message pops up.) --James
+:: msg "%username%" When you leave, please keep both computers turned on. (This time, and any other time this happy little message pops up.) --James
