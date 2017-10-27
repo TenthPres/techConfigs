@@ -1,6 +1,6 @@
 @echo off
 
-echo "updating configurations..."
+echo updating configurations...
 git pull --rebase
 
 Start "" StartReaper2.bat
