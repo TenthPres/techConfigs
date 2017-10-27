@@ -1,5 +1,11 @@
 @echo off
 
+echo "Making sure Dante is running..."
+
+:: ptp is the Dante Clock Sync process, which appears to be the only process that runs only when DVS is running. 
+QPROCESS "ptp.exe">NUL
+IF %ERRORLEVEL% EQU 1 msg "%username%" Dante Virtual Soundcard needs to be manually started.
+
 echo "Setting date variables..."
 
 For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
