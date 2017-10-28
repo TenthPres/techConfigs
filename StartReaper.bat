@@ -1,6 +1,7 @@
 @echo off
 
 echo updating configurations...
+git checkout master
 git pull --rebase
 
 echo Making sure Dante is running...
