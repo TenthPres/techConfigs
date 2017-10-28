@@ -2,6 +2,7 @@
 
 echo updating configurations...
 git checkout master
+git remote prune origin
 git pull --rebase
 
 echo Making sure Dante is running...
