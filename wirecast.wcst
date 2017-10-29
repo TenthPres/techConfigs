@@ -1,0 +1,177 @@
+<document unique_id="3d2947fa-1570-48e2-8305-107a65a12693" version="6" os="windows" original_document_path="C:\Users\TenthWebcast\Desktop\Tenth Wirecast.wcst">
+	<open_windows>
+		<vamWindowGlass frame="120,420,2056,1476" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282928" vam_main_splitter="0.650106" eWindow_win_showcmd="3"/>
+	</open_windows>
+	<vam_state master_audio_shown="1010" transition_0_unique_id="-- SMOOTH --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" master_audio_monitor="0" preview_audio_monitor="0" preview_shown="1" show_preview_edit_panel="0" live_shown="1" live_preview_split_open_percent="0.75" live_preview_split_closed_percent="0.807373"/>
+	<transition_data/>
+	<chroma_key_data/>
+	<advanced_output>
+		<output_list output_last_selected="7c3d2528-ba8d-448f-8bea-8f88ac951da2">
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://stream2.sa-media.com/tenth  " output_location="LD270" output_branding="RTMP Server" output_display_name="sermonaudio 270p" output_display_group_name="RTMP Server" output_guid="ff2d23ea-1cfa-4678-a837-7acadbe475a5" unique_id="2" output_presetname="sermonaudio 270p" output_location_with_bitrate="LD270" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="sermonaudio 270p" output_settings_complete="1" output_id="fdbb0535-fcd2-48b7-8cf3-d81dc34d8c34"/>
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://stream2.sa-media.com/tenth  " output_location="SD480" output_branding="RTMP Server" output_display_name="sermonaudio 480p" output_display_group_name="RTMP Server" output_guid="7c4ad7d9-755e-40e4-be0c-c427d70e7012" unique_id="3" output_presetname="sermonaudio 480p" output_location_with_bitrate="SD480" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="sermonaudio 480p" output_settings_complete="1" output_id="90372c0e-48ea-43d9-81fa-5876513b3f83"/>
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://stream2.sa-media.com/tenth  " output_location="SD720" output_branding="RTMP Server" output_display_name="sermonaudio 720p" output_display_group_name="RTMP Server" output_guid="9a7fe6b2-aafc-43b1-93ac-937e32f3f97a" unique_id="4" output_presetname="sermonaudio 720p" output_location_with_bitrate="SD720" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="sermonaudio 720p" output_settings_complete="1" output_id="beedb0ea-5894-4102-a64f-c6e0b29bb651"/>
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://a.rtmp.youtube.com/live2" output_location="z186-dest-ufst-7v8d" output_branding="RTMP Server" output_display_name="YouTube" output_display_group_name="RTMP Server" output_guid="0328ddf3-c882-4d11-8a4b-5f52fa0c0033" unique_id="13" output_presetname="YouTube: 1080p Recommended" output_location_with_bitrate="z186-dest-ufst-7v8d" impersonate_fme_2_5="0" flash_user_agent="FMLE/3.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="YouTube" output_settings_complete="1" output_id="815aae8b-0d98-4c9a-acd6-e07d4ce39feb"/>
+			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook Live" output_display_name="Facebook Live" output_guid="5f0a071d-75e7-4ff1-b9a6-d799b673b8d6" unique_id="15" output_presetname="Facebook: 720p30 (4Mbps) x264 H.264" selectedScheduleIndex="0" selectedPostTargetIndex="0" fb_ad_enabled="1" title="Worship Live 10/22/17 6:30PM Christ the Controversialist: “Worship: Form or Substance?” John 4:19-26" description="Live Stream of the Sunday Evening Worship Service 10/22/17 6:30PM  Dr. Liam Goligher, Senior Minister, preaching: “Worship: Form or Substance?” based on  John 4:19-26  The Bulletin for the 10/22/17 Worship Services may be viewed at https://d1nwfrzxhi18dp.cloudfront.net/sites/55df3b36200cc96eb3000006/content_entry55df3ba87d7a14ef5e0000f4/59d4411ca5c7bd547c00012f/files/171022.pdf?1508441283  John 4:19-26 ( https://biblia.com/bible/esv/John%204.19%E2%80%9326 ): 19 The woman said to him, “Sir, I perceive that you are a prophet.  20 Our fathers worshiped on this mountain, but you say that in Jerusalem is the place where people ought to worship.”  21 Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father. 22 You worship what you do not know; we worship what we know, for salvation is from the Jews.  23 But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.  24 God is spirit, and those who worship him must worship in spirit and truth.” 25 The woman said to him, “I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.” 26 Jesus said to her, “I who speak to you am he.”  About Tenth: Tenth Church is a regional fellowship of kingdom-minded disciples reaching Center City, evangelizing greater Philadelphia, and multiplying gospel ministry to the world.  Please support our Capital Campaign for 1710 Spruce St.; Please view a special word from our senior minister about our campaign here: https://youtu.be/ev_hw8OoLdM  Tenth's Capital Campaign web page: tenth.org/about/capital-campaign Tenth's website: tenth.org  (c) Tenth Presbyterian Church" targetId="123608394343710" targetToken="EAAX7qR8CHPEBANyGtkeQWwFFSNPRXovUYlOEaU4lBJLZCZBdvW8perO8ywzcRoCk12PXwopbjmBaGCOAbRZB3NfMtaDsPjesaW81te0bwAvyHK1VDM8UzslDnY0leCb35ZB6sxL3S6tFYNZAAGZBlqpbHO7xkv4qzQZCSTBL5O9rMmPwVpjALLSmsV4NSNNB9oZD" selectedPrivacyIndex="0" postTo="0" verifiedPagesOnly="0" output_enabled="1" destination_location_id="kXNXUUSbaXqCOCIR6OVisnuzBZfA8GIwHvCsXy0qsrZkUqmBi+I5Y15ZB6W2QaDSuHIeIa+wV10QbOSn7/QeuhzxZriqHWYxxw5CY+45V+/5UTnfzVj3a6rv8bilqiyI+KAspi0qk6DgkY/11ohrucaTDzXpwXmUxw/3cR9DRBcQ+SADLDlBvShYRsdu21lK/hmLD4+rxwNz3S0qpgxn0AKqbMZi4aQ0VUrLANb0bppEmo5g2II=0494" output_url="rtmp://live-api.facebook.com:80/rtmp/" output_location="1502325906471945?ds=1&amp;a=ATidCAnayEMWBIIH" output_username="Tenth TechArts" planned_start_time="1508677200" save_access_for_video="EAAX7qR8CHPEBANyGtkeQWwFFSNPRXovUYlOEaU4lBJLZCZBdvW8perO8ywzcRoCk12PXwopbjmBaGCOAbRZB3NfMtaDsPjesaW81te0bwAvyHK1VDM8UzslDnY0leCb35ZB6sxL3S6tFYNZAAGZBlqpbHO7xkv4qzQZCSTBL5O9rMmPwVpjALLSmsV4NSNNB9oZD" live_video_ID="1502325906471945" save_video_ID="1502325906471945" output_location_with_bitrate="1502325906471945?ds=1&amp;a=ATidCAnayEMWBIIH" output_user_name="Facebook Live" output_settings_complete="1" output_id="7c3d2528-ba8d-448f-8bea-8f88ac951da2">
+				<placeInfoForAttachingToLiveVideo name="Tenth Presbyterian Church - 1701 Delancey Street, Philadelphia, PA United States" placeId="123608394343710"/>
+				<placeList>
+					<xml_tag name="Tenth Presbyterian Church - 1701 Delancey Street, Philadelphia, PA United States" id="123608394343710" address="1701 Delancey Street, Philadelphia, PA United States"/>
+					<xml_tag name="Tenth City Network - 1710 Spruce St, Philadelphia, PA United States" id="169111019835008" address="1710 Spruce St, Philadelphia, PA United States"/>
+					<xml_tag name="Tenth College Fellowship - 1701 Delancey St, Philadelphia, PA United States" id="222949191094861" address="1701 Delancey St, Philadelphia, PA United States"/>
+					<xml_tag name="The Tenth Hole - Eastern Parade, Southsea,  United Kingdom" id="186901764693831" address="Eastern Parade, Southsea,  United Kingdom"/>
+					<xml_tag name="Tenth Planet Suites and Event Centre - City" id="1037745279664563" address="City"/>
+					<xml_tag name="Tenth Street Baptist Church - 1860 So. 10th Street, Camden, NJ United States" id="145665556000329" address="1860 So. 10th Street, Camden, NJ United States"/>
+					<xml_tag name="Tenth Planet Suites and Event Centre, Sagamu - By OlowoBank Off Aiyepe Road, Sagamu,  Nigeria" id="772814619466025" address="By OlowoBank Off Aiyepe Road, Sagamu,  Nigeria"/>
+					<xml_tag name="St.pius The Tenth Catholic Church. - City" id="1448529828744365" address="City"/>
+					<xml_tag name="Tenth Memorial Baptist Church - 1328 N 19th St, Philadelphia, PA United States" id="120801164598156" address="1328 N 19th St, Philadelphia, PA United States"/>
+					<xml_tag name="Tenth District Volunteer Fire Department - 7035 Poorhouse Rd, Indian Head, MD United States" id="156147827811665" address="7035 Poorhouse Rd, Indian Head, MD United States"/>
+					<xml_tag name="Tenth Gate Center for Yoga and Meditation - GLEN VIEW, 1046 East Main Rd, Portsmouth, RI United States" id="53952869354" address="GLEN VIEW, 1046 East Main Rd, Portsmouth, RI United States"/>
+					<xml_tag name="Tenth Planet - 224 W Lincoln Hwy, Schererville, IN United States" id="651748731521948" address="224 W Lincoln Hwy, Schererville, IN United States"/>
+					<xml_tag name="Tenth Avenue - City" id="112345775451816" address="City"/>
+					<xml_tag name="Gardens on Tenth - 235 5th Ave SW, Altona, MB Canada" id="1042049922538537" address="235 5th Ave SW, Altona, MB Canada"/>
+					<xml_tag name="Chitlang Tenthouse - Chitlang-2, Makwanpur Garhi,  Nepal" id="1642136896083814" address="Chitlang-2, Makwanpur Garhi,  Nepal"/>
+					<xml_tag address="400 N 10th St, Reading, PA United States" id="1636496159911418"/>
+					<xml_tag name="Tenth Ward Distilling Company - 508 E Church St, Frederick, MD United States" id="438307099710706" address="508 E Church St, Frederick, MD United States"/>
+					<xml_tag name="407 Tenth St. - City" id="472342839631751" address="City"/>
+					<xml_tag name="Tenth Legion, Virginia - City" id="110255862334453" address="City"/>
+					<xml_tag name="Tenth Street Saloon - 136 N Main St, Plainwell, MI United States" id="113324288699956" address="136 N Main St, Plainwell, MI United States"/>
+				</placeList>
+				<pageList>
+					<xml_tag access_token="EAAX7qR8CHPEBANyGtkeQWwFFSNPRXovUYlOEaU4lBJLZCZBdvW8perO8ywzcRoCk12PXwopbjmBaGCOAbRZB3NfMtaDsPjesaW81te0bwAvyHK1VDM8UzslDnY0leCb35ZB6sxL3S6tFYNZAAGZBlqpbHO7xkv4qzQZCSTBL5O9rMmPwVpjALLSmsV4NSNNB9oZD" name="Tenth Presbyterian Church" id="123608394343710" is_verified="false"/>
+				</pageList>
+			</output>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="C:\Users\dfiorijr\Videos" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" output_guid="4c94736f-5b52-448a-8996-5cb6f1be18d7" output_presetname="4c94736f-5b52-448a-8996-5cb6f1be18d7" output_type="6" output_enabled="1" unique_id="5"/>
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="sermonaudio 270p" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track mo_width="480" mo_height="270" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="150" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="veryfast" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="1" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="64" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="sermonaudio 480p" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track mo_width="854" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="400" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="veryfast" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="1" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="64" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="sermonaudio 720p" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="1000" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="veryfast" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="1" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="48" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="YouTube: 1080p Recommended" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track mo_width="1920" mo_height="1080" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4500" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="1" FlashVideoDisableH264BFrames="1" codec_quality="veryfast" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="Facebook: 720p30 (4Mbps) x264 H.264" show_in_gui="1" group="Facebook">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4000" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="1" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="4c94736f-5b52-448a-8996-5cb6f1be18d7" show_in_gui="1" group="">
+			<movie format="Replay" output_system="replay">
+				<track mo_width="640" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="net.telestream.NDIOutput" show_in_gui="0" group="NDIOutput">
+			<movie format="NDIOutput" output_system="NDIOutput" output_sdk_preset_xml="ndiout_preset_token" output_sdk_guid="1a7a63c7-7d30-4a5b-a86a-9180229b6624" is_dynamic="1">
+				<track mo_width="100" mo_height="100" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+	</output_presets>
+	<iso_outputs>
+		<xml_tag/>
+	</iso_outputs>
+	<volume value="1.99431"/>
+	<preview_volume value="1.99431"/>
+	<auto_live value="0"/>
+	<flip_flop value="1"/>
+	<output_annotations/>
+	<transition_duration/>
+	<visual_style/>
+	<single_output/>
+	<media_directories/>
+	<layer_names/>
+	<layer_scales layer_0="0.5" layer_1="0.5" layer_2="0.1" layer_3="0.1" layer_4="0.1"/>
+	<layer_visible/>
+	<sections/>
+	<aspectRatio custom_width="1920" custom_height="1080" type="825243696"/>
+	<shot_key_map>
+		<key_map value="2" uuid="88d924de-64b0-4463-9138-c28d711e847e">
+			<shot value="8d4ef84a-b5c8-4ae4-9280-16db287914cb_shot"/>
+		</key_map>
+		<key_map value="1" uuid="bfd6cf28-cb4e-4fca-88b2-cb7a84b32ca7">
+			<shot value="9034f79b-e250-4442-8e64-dc5ce1105b22_shot"/>
+		</key_map>
+	</shot_key_map>
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot"/>
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="9034f79b-e250-4442-8e64-dc5ce1105b22_shot"/>
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="239773ad-4ebc-42be-942d-1e9f74b4a67e_shot"/>
+		<xml_tag vaLayerIndex="3" beLayerEnum="4" vaLayerEnum="1836282931" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot"/>
+		<xml_tag vaLayerIndex="4" beLayerEnum="5" vaLayerEnum="1836282932" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot"/>
+	</shotsLiveWhenSaved>
+	<source_sdk_settings/>
+	<social_media/>
+	<source_configurations/>
+	<document_thumbnail thumbnail="/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCABaAHUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD8Jv8AhP7Hwr4w1Pw/qvhjwVq2l+J/FHhV9Q1vxF4MtvFmt6FZ6b4e1iC4XRBNqujypaXUWqteajpcF/ZHVL/SdDka/tRp+JePv/iHHeT2NxbeBvAmhvZPcO39h6TewLfm4ES7NQTUdU1SOWGFYz5EMCWyo7tKd0mGrnfiIf8Aiu4x66xY9v8AqXpTwcEj8CP6VzVehdt+ll6aLQ5y816rOXNnasxkeQtIszM+9mba+JURsE9VRCSOeOKVvGccWkS6EdB0xyupref2iWuhebYYryA2ACziD+z5muVupY2ha5+12lpIl0kcbwyUK5W4/wCPif8A67S/+htWVWUopNaXZUEm9ex0SeI0R1caZajbIkg2mQEbGB2qzM+Acclg3qc1t+JPHkPiHVptUi8LaHoUc0VjGulaQdROm25s9OtbB3tl1K+1C8Rr+S2fVL1ZLyWNtTvLyW2S1tnitIfPKKx9rPv+C/r/AIf0tpyR7fn/AJm7LrKyOXFokQIA2ROVQYAHAYMcnGTljk5NR/2qP+eB/wC/n/2FY1FHtZ9/wX9f8P6WOSPb8/8AM2f7VH/PA/8Afz/7CtKGXzokkxt3jOM5xyR1wM9PSuUrprL/AI9Yf90/+hGtKU5Sk03fS+3mkRNJWsu/6FqiiityCSGUwzRTKqs0MiSqrglGMbBwrAFSVJGGAYEjOCOtat54puobYzvBEwtgXCqZi0nz2hVCxnHlDdax7pYQkzLJcK7yLPIrY1Z+qnGn3XT/AFeOQD1ZR3B554PUHBBBAIylQpTqU606cZVKV/Zyerjfe3T8N7NapFKUlGUU3yzSUl0klKE0n6ThCX+KMXukdPrrWf8Aal1Dp13PqFhazS21lfXVmdPuby3SaQx3E9j9u1MWskm85gW+uVjUKvmMQTRWbP8A6+b/AK6yf+hmiuuGkUkrJaJLpqYVG5TlKTbbd222229W23q23q29zoPiJ/yPcX/YYsv/AFHpf89/6jmq7H4pPYSfEZ3022u7WybWrD7NBe3cV9cxIPDjhhPdQWVjFMzPuZSlrbhFZUPmFS78dWC6+v6I1CuVuP8Aj4n/AOu0v/obV1VcvcI5uJ8Ix/fSdFJ/jb2rGvtH1Lhv8v1RXop/lyf883/75P8AhR5cn/PN/wDvk/4Vz2fZ/d/Xdfea3/r+vVfeMop/lyf883/75P8AhR5cn/PN/wDvk/4UWfZ/d/XdfeF/6/r1X3jK6ay/49Yf90/+hGuc8uT/AJ5v/wB8n/CukswRbQggghTwRg/eNa0L8z0+z+qM5vb5/oWage4jjfy2D7yAQFRmyD0xjrzx9Rip6aUQsGKKWHAYqCwwc8HGRzz9a6Xfppqt1fTqZ+v9fgyLzx/zzn/78yf/ABNUtSkD6fdgLIuIx9+NkH316FsZPt+h6VqVn6rj+z7rIJ/d9jjncuDyrcA4JGBkcBl+8DXvf5f8EP6/rT1/rfVn/wBfN/11k/8AQzRRP/r5v+usn/oZoreHwr5/mzGfxP5fkjofiJj/AITqPJO7+2LHaMAg/wDFPTZydwII4wArZyc4xmuMkv7eN2Rt+5SQcLkZHpzXc/EBGbxpM6jKwapp08oBOREuhSRl9uxt4V5Y1IDq3zghXAYp5Xd/8fM//XRv51yVJyhqray6ryR0RV3r2/VGx/adt/00/wC+P/sqga6092LtEWZuSTGCT/49WNRWPtpPdRfqv+D/AFf0NORef3+n+X9aW2PtGm/88P8AyEP8ajluLLZ+5gTfkf6yM7cd/utnPpWXRS9o/wCWH/gPp/l/WljlXn9/p/l/Wlri3CZG63tduecRyZx7Zek+0D/n3tP+/cn/AMXVSip5n5fd6f5L+rWdl2/Ppb/JF4XEPmrut4fK+XdiM7vujdjLf3s4z2xmtEajaqAqiQBQAAEGAAMAD5uwrAoqo1JR2t93pp+Fhcq8/wCrfojoP7Ttv+mn/fH/ANlWhFMWj3RswSVRkdMqcHBH1Az9B6Vx9dRaf8e0H/XNf5VtTm5tqSWlmtOu39epMrwVotrmVpWb95Xi7PurpOz6pPorWKoarj+zrvcSP3YxgA5bemAcsuB7jcR/dNX6cNN1HWI7jTtKsrrUL+4tpzBZ2UE1zczLbxtdXBjhgimkZYbaGaeZtqpHBFJJJJHGjMNjMfP/AK+b/rrJ/wChmikmOZpSM4MjkZBBwWJHBwRkHuM0VtD4V8/zZjP4n8vyR13jsO3izVnQMwLWeGQEg/8AEvtAcEe+QfxFYFlod9qaS/YfDdxqbR4Wae10/Ubp4nl8wo0ptmaNHYA+WHQKwiztYiQt8u/tX/Cmy8W/GTxT4jg+JXgLww02n6FHH4Z1zX49O1lHsfDumxb3hu7hI401GRHazkmnjDMQ0y21qyTng/CvwWuNX8FeAbVvHXwwlXw38TvHPiDUbLxB4/8ACFtpmp2N7ovwoWPT5WTxSJLqG6OgXdrfJYtNPaxXcDXK2qXVrJP5eMxEqEYO0IRdVQdaq26VK8ZNTqRUqd4yfLTXNUhFTqRm2+VRfXTpe0lZSd4xlUS5vZ83JBtq7ajJ8t3GFpOclFQi6jgfbV54X1TT4hPf+H9RsYGcRCa80u6tojIysyxiSaBELsqOwQHcVRiBhTjM+wx/8+q/9+f/ALGuE+Cvg2y+HPxJ+LPxD8TePPhYmn+MPDOpwRaR4Z8eeHNTtbK71P4i+DdaCxrFr93fx2ogsLjdczWNnYwzzw20X2Vp7SyP0efHngDU9SW10TxR4dla6lWKx06HxDpl/eyOw+WKNIbgy3ErHOBHGWbqFH3Q8HX+sQqtujNU63s41KKXs6i9lSqc0ffqfDKo6btOXvQ6N8qU04tW5kmr63utbdl2T27eR5X9hj/59V/78/8A2NTwaZFMzKbcLtTfhbdXdvmVdqKzRhj824/OMIrNzjFe17h/tf8AfD//ABNG4f7X/fD/APxNdll2X3EXfn/X/DL7jzG58IwW5tx9psZftAkO6FI5I4PLSNx9qdZD5PmeYUQEMxaOQMqgKX11+Hls1k17/bfh5dpx9kaaIXrHzUi+W3DEkYYy7t23ykc53bUbt9w/2v8Avh//AImjcP8Aa/74f/4miy7L7gu/P+v+GX3Hm134LitdOOoi80u5Xzr6EW9vtkuALFoVEzx8FILrzv8ARX+YymK4+UCIk8t9hj/59V/78/8A2Ne5bh/tf98P/wDE0bh/tf8AfD//ABNFl2X3Bd+f9f8ADL7jw37DH/z6r/35/wDsamWF1AVYmVQMABCAB6AYr2zcP9r/AL4f/wCJo3D/AGv++H/+Joslsl9wrninlyf883/75P8AhVi1nvrGdbmymu7O5RZFS4tZJredFmieGVVliKSKssMkkUgDAPE7xtlWYH2PcP8Aa/74f/4mjcP9r/vh/wD4mmB4usFxJkrDM/YlY3b8yFPaivvP4H+OfFvg+w8QL4Y8Hw+Kk1C7sWvDcaT4l1AWLW0NwIQh0G+sREbkTyFxdeaX8hTDsCy7yqVSytyyfn7vl3d+r+7zH7Hn97nSv0s3tp+h+aX7Qf7LQ+LPxI8Q+Ooddv8ASrnULPSrWHTIdKsJLBZNL0PTrKAvepeQun2uWFjcbbB3t1dZl+2SO0deY6D+yh4j0XRLLTm1TTRe6fqviTVIZH238TPquleHra0tpYrq0t7cQvd6Gn2mV7W5ltomW4t0mkU28n6I+IZYZNYvpGuNRmLyRMJ5lkEso8iL55laeUiXrkedKOnzmuebZuOPOI7FvN3H64z/ADrJ04t3tZtptryadtb6O1n5XtZ6lRm4u9lL3ZK0r2XNFxUtGtYXUo3duZLmUldP43i/Zw1+4i1GXU9U0z7dqWiPpkosNP0+xs4Zm1fS9TSSOHTbfTBcGNtMjAmmERYufMgkjQQyW/BP7O2s+G/FWja/eanaTR6HqqXFpHbRwRNcWdvcQtDJebY0YXUsD3ZljD3PlSpbRreTxM7Q/Xfy/wDTT/yLR8v/AE0/8i0lTgne2yVl0Vm3ddbu+t21orJXd4vK7fNKzSXLpZWvqtL3kmk7tq0VZL3r3bi6SaG0iSyit2toWikmi/1l2xkZxNcbpGXzFVhEPLCJ5aJlDJ5kklTcf7jfmv8A8VTfl/6af+RaPl/6af8AkWtAHbj/AHG/Nf8A4qjcf7jfmv8A8VTfl/6af+RaPl/6af8AkWgB24/3G/Nf/iqNx/uN+a//ABVN+X/pp/5Fo+X/AKaf+RaAHbj/AHG/Nf8A4qjcf7jfmv8A8VTfl/6af+RaPl/6af8AkWgB24/3G/Nf/iqNx/uN+a//ABVN+X/pp/5Fo+X/AKaf+RaAPfvg9f8AxJttO1lPAUN20Rvbd9TNtc2lufMMBFqJDPfWpcbVn2bQ4XL8qW5Ko/CbwyviCx1hv+Fc/Ejx59lu7ZfM8C3l5ax6Z50LnZqQh8FeLd73fl7rXc9jtW3nwlxkmEp3fdmsUmk2lf0Xf/gL7j4f1j9sP4E3WpXdxF8Q7u4SZ4nM3/CN+NQZXEMQLt52gpIzhlwWddxKggkbScc/tafAViWbxxMzHkk+GPFxJ+pOh5NfjXRXH7afl9w+Ref9f1+Ppb9k/wDhrL4Cf9DtL/4S/i7/AOUVH/DWXwE/6HaX/wAJfxd/8oq/Gyij20/L7g5F5/1/X4+lv2T/AOGsvgJ/0O0v/hL+Lv8A5RUf8NZfAT/odpf/AAl/F3/yir8bKKPbT8vuDkXn/X9fj6W/ZP8A4ay+An/Q7S/+Ev4u/wDlFR/w1l8BP+h2l/8ACX8Xf/KKvxsoo9tPy+4ORef9f1+Ppb9k/wDhrL4Cf9DtL/4S/i7/AOUVH/DWXwE/6HaX/wAJfxd/8oq/Gyij20/L7g5F5/1/X4+lv2T/AOGsvgJ/0O0v/hL+Lv8A5RUf8NZfAT/odpf/AAl/F3/yir8bKKPbT8vuDkXn/X9fj6W/ZP8A4ay+An/Q7S/+Ev4u/wDlFR/w1l8BP+h2l/8ACX8Xf/KKvxsoo9tPy+4ORef9f1+Ppb9sdN/bD/Z7srUrL42uXkeeRtkfhXxaSqCOEKzF9ERMO28KFZmGxt6qChcr8TqKPbT8vuGlZWR//9k="/>
+	<game_overlay_position/>
+	<screename/>
+	<assets>
+		<asset name="Blank Shot" unique_id="f5966ebe-c5f0-4fba-8fea-e93f5789746c_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1" visible="1"/>
+		<asset name="Blank Shot" unique_id="b8dd6014-fbee-4688-8b2c-6574db4e3306_shot" type="shot" media-type="9" sort_on_overlay="0" created_for_layer="1" blank_shot="1" visible="1" vam_state="1"/>
+		<asset name="Blank Shot" unique_id="239773ad-4ebc-42be-942d-1e9f74b4a67e_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" visible="1"/>
+		<asset name="Blank Shot" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" visible="1"/>
+		<asset name="Blank Shot" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot" type="shot" media-type="9" visible="1" created_for_layer="4" blank_shot="1" vam_state="7"/>
+		<asset type="capture" unique_id="AVerMedia BDA Analog Capture::\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ca465100-deb0-4d59-818f-8c477184adf6}" name="AVerMedia BDA Analog Capture" guid="\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ca465100-deb0-4d59-818f-8c477184adf6}" url="AVerMedia BDA Analog Capture" excluded="0" format="video" video_tracks="1" audio_tracks="1" media-type="4" square_pixel_width="720" square_pixel_height="480" isusb="0"/>
+		<asset name="SD" unique_id="9034f79b-e250-4442-8e64-dc5ce1105b22_shot" type="shot" media-type="9" vam_state="10" created_for_layer="1" audio_tracks="1" alpha_track_count="0" video_tracks="1" veil_track_count="0" still_image_tracks="0" visible="1"/>
+		<asset type="capture" unique_id="AVerMedia BDA Analog Capture Secondary::\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ede957b0-eaa5-4bf4-acf3-6e10cb4836c3}" name="AVerMedia BDA Analog Capture Secondary" guid="\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ede957b0-eaa5-4bf4-acf3-6e10cb4836c3}" url="AVerMedia BDA Analog Capture Secondary" excluded="0" format="video" video_tracks="1" audio_tracks="1" media-type="4" square_pixel_width="1920" square_pixel_height="1080" isusb="0"/>
+		<asset name="HD" unique_id="8d4ef84a-b5c8-4ae4-9280-16db287914cb_shot" type="shot" media-type="9" vam_state="12" alpha_track_count="0" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" created_for_layer="1" visible="1"/>
+		<asset type="capture" unique_id="DVS Receive 11-12 (Dante Virtua::" name="DVS Receive 11-12 (Dante Virtua" url="DVS Receive 11-12 (Dante Virtua" excluded="0" format="audio" audio_tracks="1" media-type="3" isusb="0"/>
+		<asset name="DVS Receive 11-12 (Dante Virtua" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot" type="shot" media-type="9" vam_state="14" audio_tracks="1" video_tracks="0" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" visible="1"/>
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="Intensity Shuttle_1" chroma_config_id="620"/>
+		<chroma_key_configuration unique_id="DVS Receive  1-2 (Dante Virtual::" chroma_config_id="621"/>
+		<chroma_key_configuration unique_id="XI100DUSB-HDMI Video::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#7&amp;2db02917&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" chroma_config_id="622"/>
+		<chroma_key_configuration unique_id="a94a7d48-f564-40c7-bf45-f02ebdde8352_130320-03.jpg" chroma_config_id="623"/>
+		<chroma_key_configuration unique_id="af858388-4ca0-46a6-8249-f6c584de79f4_C_TenthPC_rgb_green_72dpi.jpg" chroma_config_id="624"/>
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="f5966ebe-c5f0-4fba-8fea-e93f5789746c_shot"/>
+		<shot event_type="2" unique_id="b8dd6014-fbee-4688-8b2c-6574db4e3306_shot"/>
+		<shot event_type="2" unique_id="239773ad-4ebc-42be-942d-1e9f74b4a67e_shot"/>
+		<shot event_type="2" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot"/>
+		<shot event_type="2" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot"/>
+		<shot event_type="2" unique_id="9034f79b-e250-4442-8e64-dc5ce1105b22_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" volume="0.868984" ro_respect_aspect_ratio="1" unique_id="AVerMedia BDA Analog Capture::\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ca465100-deb0-4d59-818f-8c477184adf6}" mute="1" obj_scale="0.84375,1" ro_user_scale="2.25,2.25">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="8d4ef84a-b5c8-4ae4-9280-16db287914cb_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" mute="1" unique_id="AVerMedia BDA Analog Capture Secondary::\\?\pci#ven_1a0a&amp;dev_6202&amp;subsys_620f1461&amp;rev_01#4&amp;2360f2aa&amp;0&amp;00e4#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{ede957b0-eaa5-4bf4-acf3-6e10cb4836c3}" volume="0">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot">
+			<event event_type="4" zorder="5">
+				<event event_type="2" channel_id="1" respect_actual_size="1" unique_id="DVS Receive 11-12 (Dante Virtua::">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
