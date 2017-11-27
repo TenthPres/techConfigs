@@ -3,10 +3,30 @@
 <MidiChannelNumber value="0">
 <NoteOnBlock/>
 <ControlChangeBlock>
+<ControlChange value="17">
+<Command type="Level">
+<ChannelType>Input</ChannelType>
+<ChannelNum>5</ChannelNum>
+<Scale>1.0</Scale>
+<Target>Fixed</Target>
+<ValueMode>ABSOLUTE</ValueMode>
+<FaderPickup>false</FaderPickup>
+</Command>
+</ControlChange>
+<ControlChange value="24">
+<Command type="Level">
+<ChannelType>Stereo IEM</ChannelType>
+<ChannelNum>1</ChannelNum>
+<Scale>1.0</Scale>
+<Target>Fixed</Target>
+<ValueMode>ABSOLUTE</ValueMode>
+<FaderPickup>false</FaderPickup>
+</Command>
+</ControlChange>
 <ControlChange value="65">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>5</ChannelNum>
+<ChannelNum>8</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChange>
@@ -34,7 +54,7 @@
 <ControlChange value="75">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>8</ChannelNum>
+<ChannelNum>5</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChange>
@@ -55,7 +75,7 @@
 <ControlChange value="78">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>15</ChannelNum>
+<ChannelNum>14</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChange>
@@ -90,7 +110,7 @@
 <ControlChange value="101">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>5</ChannelNum>
+<ChannelNum>8</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
@@ -140,7 +160,7 @@
 <ControlChange value="113">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>8</ChannelNum>
+<ChannelNum>5</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
@@ -170,7 +190,7 @@
 <ControlChange value="116">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>15</ChannelNum>
+<ChannelNum>14</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
@@ -200,10 +220,30 @@
 </ControlChangeBlock>
 <NoteOnBlockInforms/>
 <ControlChangeBlockInforms>
+<ControlChangeInform value="17">
+<Command type="Level">
+<ChannelType>Input</ChannelType>
+<ChannelNum>5</ChannelNum>
+<Scale>1.0</Scale>
+<Target>Fixed</Target>
+<ValueMode>ABSOLUTE</ValueMode>
+<FaderPickup>false</FaderPickup>
+</Command>
+</ControlChangeInform>
+<ControlChangeInform value="24">
+<Command type="Level">
+<ChannelType>Stereo IEM</ChannelType>
+<ChannelNum>1</ChannelNum>
+<Scale>1.0</Scale>
+<Target>Fixed</Target>
+<ValueMode>ABSOLUTE</ValueMode>
+<FaderPickup>false</FaderPickup>
+</Command>
+</ControlChangeInform>
 <ControlChangeInform value="65">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>5</ChannelNum>
+<ChannelNum>8</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChangeInform>
@@ -231,7 +271,7 @@
 <ControlChangeInform value="75">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>8</ChannelNum>
+<ChannelNum>5</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChangeInform>
@@ -252,7 +292,7 @@
 <ControlChangeInform value="78">
 <Command type="Mute">
 <ChannelType>Input</ChannelType>
-<ChannelNum>15</ChannelNum>
+<ChannelNum>14</ChannelNum>
 <Target>Fixed</Target>
 </Command>
 </ControlChangeInform>
@@ -287,7 +327,7 @@
 <ControlChangeInform value="101">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>5</ChannelNum>
+<ChannelNum>8</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
@@ -337,7 +377,7 @@
 <ControlChangeInform value="113">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>8</ChannelNum>
+<ChannelNum>5</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
@@ -367,7 +407,7 @@
 <ControlChangeInform value="116">
 <Command type="Level">
 <ChannelType>Input</ChannelType>
-<ChannelNum>15</ChannelNum>
+<ChannelNum>14</ChannelNum>
 <Scale>1.0</Scale>
 <Target>Fixed</Target>
 <ValueMode>ABSOLUTE</ValueMode>
