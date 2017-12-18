@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <preset version="2.0.0">
-    <name>dante config</name>
+    <name>Dante Config</name>
     <description>Dante Controller preset</description>
     <device>
         <name>SanctSoundBackup</name>
@@ -158,15 +158,23 @@
         </rxchannel>
         <rxchannel danteId="5">
             <name>05</name>
+            <subscribed_channel>53</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
         </rxchannel>
         <rxchannel danteId="6">
             <name>06</name>
+            <subscribed_channel>54</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
         </rxchannel>
         <rxchannel danteId="7">
             <name>07</name>
+            <subscribed_channel>55</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
         </rxchannel>
         <rxchannel danteId="8">
             <name>08</name>
+            <subscribed_channel>56</subscribed_channel>
+            <subscribed_device>SanctuaryMixer</subscribed_device>
         </rxchannel>
         <rxchannel danteId="9">
             <name>09</name>
@@ -175,7 +183,7 @@
         </rxchannel>
         <rxchannel danteId="10">
             <name>10</name>
-            <subscribed_channel>CongL</subscribed_channel>
+            <subscribed_channel>Liam</subscribed_channel>
             <subscribed_device>SanctuaryMixer</subscribed_device>
         </rxchannel>
         <rxchannel danteId="11">
@@ -289,12 +297,8 @@
         <txchannel danteId="6">
             <label>X</label>
         </txchannel>
-        <txchannel danteId="7">
-            <label>MenC</label>
-        </txchannel>
-        <txchannel danteId="8">
-            <label>MDC</label>
-        </txchannel>
+        <txchannel danteId="7"/>
+        <txchannel danteId="8"/>
         <txchannel danteId="9">
             <label>Hand</label>
         </txchannel>
@@ -313,9 +317,7 @@
         <txchannel danteId="14">
             <label>BrassR</label>
         </txchannel>
-        <txchannel danteId="15">
-            <label>Choir</label>
-        </txchannel>
+        <txchannel danteId="15"/>
         <txchannel danteId="16"/>
         <txchannel danteId="17">
             <label>BalcL</label>
@@ -324,62 +326,36 @@
             <label>BalcR</label>
         </txchannel>
         <txchannel danteId="19">
-            <label>CDL</label>
+            <label>Chr L</label>
         </txchannel>
         <txchannel danteId="20">
-            <label>CDR</label>
+            <label>Chr CL</label>
         </txchannel>
         <txchannel danteId="21">
-            <label>LimP</label>
+            <label>Chr CR</label>
         </txchannel>
         <txchannel danteId="22">
-            <label>JerP</label>
+            <label>Chr R</label>
         </txchannel>
-        <txchannel danteId="23">
-            <label>LimE</label>
-        </txchannel>
-        <txchannel danteId="24">
-            <label>JerE</label>
-        </txchannel>
-        <txchannel danteId="25">
-            <label>Bruce</label>
-        </txchannel>
-        <txchannel danteId="26">
-            <label>Carr</label>
-        </txchannel>
-        <txchannel danteId="27">
-            <label>DanK</label>
-        </txchannel>
-        <txchannel danteId="28">
-            <label>Dery</label>
-        </txchannel>
-        <txchannel danteId="29">
-            <label>Enri</label>
-        </txchannel>
-        <txchannel danteId="30">
-            <label>Gavn</label>
-        </txchannel>
-        <txchannel danteId="31">
-            <label>Geth</label>
-        </txchannel>
-        <txchannel danteId="32">
-            <label>Jasn</label>
-        </txchannel>
+        <txchannel danteId="23"/>
+        <txchannel danteId="24"/>
+        <txchannel danteId="25"/>
+        <txchannel danteId="26"/>
+        <txchannel danteId="27"/>
+        <txchannel danteId="28"/>
+        <txchannel danteId="29"/>
+        <txchannel danteId="30"/>
+        <txchannel danteId="31"/>
+        <txchannel danteId="32"/>
         <txchannel danteId="33">
             <label>MP3L</label>
         </txchannel>
         <txchannel danteId="34">
             <label>MP3R</label>
         </txchannel>
-        <txchannel danteId="35">
-            <label>Oliv</label>
-        </txchannel>
-        <txchannel danteId="36">
-            <label>Pat</label>
-        </txchannel>
-        <txchannel danteId="37">
-            <label>RonH</label>
-        </txchannel>
+        <txchannel danteId="35"/>
+        <txchannel danteId="36"/>
+        <txchannel danteId="37"/>
         <txchannel danteId="38"/>
         <txchannel danteId="39"/>
         <txchannel danteId="40"/>
@@ -433,9 +409,13 @@
         </txchannel>
         <rxchannel danteId="1">
             <name>01</name>
+            <subscribed_channel>01</subscribed_channel>
+            <subscribed_device>SanctSoundPC</subscribed_device>
         </rxchannel>
         <rxchannel danteId="2">
             <name>02</name>
+            <subscribed_channel>02</subscribed_channel>
+            <subscribed_device>SanctSoundPC</subscribed_device>
         </rxchannel>
         <rxchannel danteId="3">
             <name>03</name>
