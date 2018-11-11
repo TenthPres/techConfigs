@@ -6,6 +6,7 @@ git clean -fd
 
 echo Updating Configurations...
 git checkout master
+git reset --hard
 git remote prune origin
 git pull --rebase
 
