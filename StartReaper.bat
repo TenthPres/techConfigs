@@ -63,7 +63,7 @@ for /f "usebackq skip=2" %%i in (`ping -n 1 -i 1 -w 200 10.20.1.252`) do (
   )
 :done
 
-if not %pingtest% == "Reply" powershell (New-Object -ComObject Wscript.Shell).Popup("""The amplifiers and/or NetMax appear to be offline.""",0,"""Sound System Off?""",0x30)
+if not "%pingtest%" == "Reply" powershell (New-Object -ComObject Wscript.Shell).Popup("""The amplifiers and/or NetMax appear to be offline.""",0,"""Sound System Off?""",0x30)
 
 goto :eof
 
