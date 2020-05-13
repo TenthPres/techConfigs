@@ -45,7 +45,7 @@ if not exist "%cd%\..\Recordings\" mkdir "%cd%\..\Recordings\" (
 
 echo Starting Reaper...
 
-SET templateFile="Livestream Only Mixing.rpp"
+SET templateFile=Livestream Only Mixing.rpp
 
 REM for x32 computers
 if exist "c:\Program Files\REAPER" (
