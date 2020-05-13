@@ -31,6 +31,10 @@ For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
 For /f "tokens=1-3 delims=/:/ " %%a in ('time /t') do (set mytime=%%a%%c)
 
 
+echo Updating Local Reaper Templates...
+xcopy /s /q /y .\Reaper\Templates "%userprofile%\AppData\Roaming\REAPER\ProjectTemplates"
+
+
 
 echo Creating directory for service...
 
@@ -41,13 +45,15 @@ if not exist "%cd%\..\Recordings\" mkdir "%cd%\..\Recordings\" (
 
 echo Starting Reaper...
 
+SET templateFile="Livestream Only Mixing.rpp"
+
 REM for x32 computers
 if exist "c:\Program Files\REAPER" (
-	Start "" "c:\Program Files\REAPER\reaper.exe" -template "%cd%\template.rpp" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
+	Start "" "c:\Program Files\REAPER\reaper.exe" -template "%cd%\Reaper\Templates\%templateFile%" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
 
 ) else if exist "c:\Program Files (x86)\REAPER" (
 REM for x64 computers
-	Start "" "c:\Program Files (x86)\REAPER\reaper.exe" -template "%cd%\template.rpp" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
+	Start "" "c:\Program Files (x86)\REAPER\reaper.exe" -template "%cd%\Reaper\Templates\%templateFile%" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
 
 ) else powershell (New-Object -ComObject Wscript.Shell).Popup("""It appears that Reaper isn't installed.  Please install the 32-bit version.""",0,"""Reaper?""",0x10)
 REM for computers that don't have Reaper
