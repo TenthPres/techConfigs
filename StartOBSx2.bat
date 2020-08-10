@@ -16,14 +16,9 @@ echo Making sure Dante is running...
 QPROCESS "ptp.exe">NUL
 IF %ERRORLEVEL% EQU 1 msg "%username%" Dante Virtual Soundcard needs to be manually started.
 
-echo Setting Date Variables...
 
-For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
-For /f "tokens=1-3 delims=/:/ " %%a in ('time /t') do (set mytime=%%a%%c)
+start "OBS for Facebook" /D "C:\Program Files\obs-studio\bin\64bit\" /MIN "obs64.exe" --multi --collection "1 Only" --profile "Sunday" --scene "Sunday" --startstreaming
 
+timeout 4
 
-echo Copying template for this service...
-mkdir "%userprofile%\videos\Wirecast Documents"
-copy "%cd%\Wirecast\TEMPLATE.wcst" "%userprofile%\videos\Wirecast Documents\%mydate% %mytime%.wcst"
-
-start "" "%userprofile%\videos\Wirecast Documents\%mydate% %mytime%.wcst"
+start "OBS for Phones" /D "C:\Program Files\obs-studio\bin\64bit\" /MAX "obs64.exe" --multi --collection "1 Only" --profile "Phone Streaming" --scene "Audio Only"

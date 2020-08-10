@@ -1,0 +1,346 @@
+<document unique_id="8136432d-a804-4c62-b91b-318216f3d35e" version="8" os="windows" original_document_path="C:\Users\User\Documents\3Cam Updated.wcst">
+	<open_windows>
+		<vamWindowGlass frame="151,132,3768,2013" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282928" vam_main_splitter="0.778822" eWindow_win_showcmd="3"/>
+	</open_windows>
+	<vam_state master_audio_shown="1010" transition_0_unique_id="-- SMOOTH --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="SCTransitionPlane" master_audio_monitor="0" preview_audio_monitor="0" preview_shown="1" show_preview_edit_panel="1" live_shown="1" live_preview_split_open_percent="0.496766" live_preview_split_closed_percent="0.496894" master_audio_mute="0"/>
+	<transition_data/>
+	<chroma_key_data/>
+	<advanced_output>
+		<output_list output_last_selected="815aae8b-0d98-4c9a-acd6-e07d4ce39feb">
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://webcast.sermonaudio.com/sa" output_location="12eb06c3-8698-4dfe-8260-4e78adf906c9" output_branding="RTMP Server" output_display_name="SermonAudio Full" output_display_group_name="RTMP Server" output_guid="ff2d23ea-1cfa-4678-a837-7acadbe475a5" unique_id="2" output_presetname="SermonAudio 2M" output_location_with_bitrate="12eb06c3-8698-4dfe-8260-4e78adf906c9" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="SermonAudio Full" output_settings_complete="1" output_id="fdbb0535-fcd2-48b7-8cf3-d81dc34d8c34" mo_restreaming="0"/>
+			<output output_enabled="1" output_type="2" output_transport="7" output_url="rtmp://a.rtmp.youtube.com/live2" output_location="1k0t-xxtc-f492-jppg-fcq4" output_branding="RTMP Server" output_display_name="YouTube" output_display_group_name="RTMP Server" output_guid="0328ddf3-c882-4d11-8a4b-5f52fa0c0033" unique_id="13" output_presetname="YouTube: 1080p Recommended" output_location_with_bitrate="1k0t-xxtc-f492-jppg-fcq4" impersonate_fme_2_5="0" flash_user_agent="FMLE/3.0" output_username="tenth" output_password="sJ5UV+0=" output_user_name="YouTube" output_settings_complete="1" output_id="815aae8b-0d98-4c9a-acd6-e07d4ce39feb" audio_output_track_mask="1" flash_streaming_delay="0" mo_restreaming="0"/>
+			<output output_type="2" output_branding="Facebook" output_display_group_name="Facebook Live" output_display_name="Facebook Live" output_guid="5f0a071d-75e7-4ff1-b9a6-d799b673b8d6" unique_id="15" output_presetname="Facebook: 720p30 (4Mbps) x264 H.264" selectedScheduleIndex="0" selectedPostTargetIndex="0" fb_ad_enabled="1" title="Tenth Presbyterian Church 2018 Livestream System Deployment Test 01" description="Test of our new 2018 Webcasting System. All Cameras HD All Cameras distributing to two computers for backup and for emergency encoding restarts.  About Tenth: Tenth Church is a regional fellowship of kingdom-minded disciples reaching Center City, evangelizing greater Philadelphia, and multiplying gospel ministry to the world.  tenth.org  © Tenth Presbyterian Church" targetId="me" targetToken="" selectedPrivacyIndex="0" postTo="0" verifiedPagesOnly="0" output_enabled="0" destination_location_id="kXNXUUSbaXqCOCIR6OVisnuzBZfA8GIwHvCsXy0qsrZkUqmBi+I5Y15ZB6W2QaDSuHIeIa+wV10QbOSn7/QeuhzxZriqHWYxxw5CY+45V+/5UTnfzVj3a6rv8bilqiyI+KAspi0qk6DgkY/11ohrucaTDzXpwXmUxw/3cR9DRBcQ+SADLDlBvShYRsdu21lK/hmLD4+rxwNz3S0qpgxn0AKqbMZi4aQ0VUrLANb0bppEmo5g2II=0494" output_url="" output_location="" output_username="Tenth TechArts" planned_start_time="1508677200" save_access_for_video="EAAX7qR8CHPEBANyGtkeQWwFFSNPRXovUYlOEaU4lBJLZCZBdvW8perO8ywzcRoCk12PXwopbjmBaGCOAbRZB3NfMtaDsPjesaW81te0bwAvyHK1VDM8UzslDnY0leCb35ZB6sxL3S6tFYNZAAGZBlqpbHO7xkv4qzQZCSTBL5O9rMmPwVpjALLSmsV4NSNNB9oZD" live_video_ID="1554637694574099" save_video_ID="1554637694574099" output_location_with_bitrate="1554637694574099?ds=1&amp;a=ATiIoBjOPU50gEIK" output_user_name="Facebook Live" output_settings_complete="0" output_id="7c3d2528-ba8d-448f-8bea-8f88ac951da2" mo_restreaming="0">
+				<placeInfoForAttachingToLiveVideo name="Tenth Presbyterian Church - 1701 Delancey Street, Philadelphia, PA United States" placeId="123608394343710"/>
+				<placeList>
+					<xml_tag id="123608394343710" address="1701 Delancey Street, Philadelphia, PA United States" name="Tenth Presbyterian Church - 1701 Delancey Street, Philadelphia, PA United States"/>
+				</placeList>
+			</output>
+			<output output_enabled="1" output_type="1" output_url="G:\Video\Webcast_.mp4" output_autoinfilename="0" output_branding="Record To Disk MP4 Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk - MP4" output_guid="fe16feaf-47b1-495f-9d52-c03e931cf694" unique_id="17" output_presetname="Default: 1080p30 (4Mbps) x264 H.264" output_settings_complete="1" output_id="fe06f01e-2c08-4c40-8fbd-09bb7e62cb24" timestamp_filename="1" mo_restreaming="0"/>
+			<output output_enabled="0" output_type="2" output_transport="7" output_url="rtmps://live-api-s.facebook.com:443/rtmp" output_location="2815891401782049?s_bl=1&amp;s_sc=2815891448448711&amp;s_sw=0&amp;s_vt=api-s&amp;a=Abyfaf7bRvQeqTkn" output_branding="RTMP Server" output_display_name="Facebook Live" output_display_group_name="RTMP Server" output_guid="9581f807-01f6-466e-a722-5ac75363c42b" unique_id="19" output_presetname="Default: 1080p30 (4Mbps) x264 H.264" output_location_with_bitrate="2815891401782049?s_bl=1&amp;s_sc=2815891448448711&amp;s_sw=0&amp;s_vt=api-s&amp;a=Abyfaf7bRvQeqTkn" impersonate_fme_2_5="0" flash_user_agent="Wirecast/FM 1.0" output_username="tenthtecharts@gmail.com" output_password="ti4VhPjex2k=" output_user_name="Facebook Live" output_settings_complete="0" output_id="994a497c-d2d0-4a80-adb4-f610cd2564cb" mo_restreaming="0"/>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="C:\Users\dfiorijr\Videos" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" output_guid="4c94736f-5b52-448a-8996-5cb6f1be18d7" output_presetname="4c94736f-5b52-448a-8996-5cb6f1be18d7" output_type="6" output_enabled="1" unique_id="5"/>
+			<output output_enabled="1" output_presetname="WirecastInternalOutputSinkPreset" output_type="7" unique_id="23" output_guid="d57ad575-0dcb-4945-8fef-947134c88575"/>
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="SermonAudio 2M" show_in_gui="1" group="">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="2000" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="veryfast" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="1" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="48" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="YouTube: 1080p Recommended" show_in_gui="1" group="youtube">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="4500" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="1" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="Facebook: 720p30 (4Mbps) x264 H.264" show_in_gui="1" group="Facebook">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1280" mo_height="720" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4000" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="Default: 1080p30 (4Mbps) x264 H.264" show_in_gui="1" group="Flash">
+			<movie format="Flash" output_system="">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4500" profile="1751738216" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="4c94736f-5b52-448a-8996-5cb6f1be18d7" show_in_gui="1" group="">
+			<movie format="Replay" output_system="replay">
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="0" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="WirecastInternalOutputSinkPreset" show_in_gui="0" group="OutputSink">
+			<movie format="Output Sink" output_system="output-sink">
+				<track type="1986618479" mo_width="1280" mo_height="720" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" match_canvas="1" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="48000"/>
+			</movie>
+		</preset>
+		<preset output_presetname="net.telestream.NDIOutput" show_in_gui="0" group="NDIOutput">
+			<movie format="NDIOutput" output_system="NDIOutput" output_sdk_preset_xml="ndiout_preset_token" output_sdk_guid="5139e70c-0d82-417a-a134-6b93d1c2bf01" is_dynamic="1">
+				<track type="1986618479" mo_width="100" mo_height="100" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="48000"/>
+			</movie>
+		</preset>
+	</output_presets>
+	<iso_outputs>
+		<xml_tag>
+			<iso_output guid="c361c425-41c3-4048-9745-836309b2d440" output_display_name="Cam2" output_enabled="1" video_source_id="magewellsource:C109170830043:1" audio_source_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" output_folder="C:\Users\User\Videos" output_filename="iso_file" video_bitrate="0" keyframe_interval="1" replay_ready="0" video_format="MJPEG-MOV" max_file_duration="0" iso_frame_drop_action="2" ISO_replay_update_hotkey_UUID="" ISO_replay_create_hotkey_UUID="" ISO_replay_markIn_hotkey_UUID="" video_quality="mjpeg_high" use_multi_channel_audio="0"/>
+			<iso_output guid="e5f7cf1e-2a71-4ffe-b8a5-ac286c17c46c" output_display_name="Cam3" output_enabled="1" video_source_id="magewellsource:C109170830043:2" audio_source_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" output_folder="C:\Users\User\Videos" output_filename="iso_file_1" video_bitrate="0" keyframe_interval="1" replay_ready="0" video_format="MJPEG-MOV" max_file_duration="0" iso_frame_drop_action="2" ISO_replay_update_hotkey_UUID="" ISO_replay_create_hotkey_UUID="" ISO_replay_markIn_hotkey_UUID="" video_quality="mjpeg_high" use_multi_channel_audio="0"/>
+			<iso_output guid="e3db25d0-5a02-406f-9143-c90d8950d619" output_display_name="Cam4" output_enabled="1" video_source_id="magewellsource:C109170830043:3" audio_source_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" output_folder="C:\Users\User\Videos" output_filename="iso_file_2" video_bitrate="0" keyframe_interval="1" replay_ready="0" video_format="MJPEG-MOV" max_file_duration="0" iso_frame_drop_action="2" ISO_replay_update_hotkey_UUID="" ISO_replay_create_hotkey_UUID="" ISO_replay_markIn_hotkey_UUID="" video_quality="mjpeg_high" use_multi_channel_audio="0"/>
+		</xml_tag>
+	</iso_outputs>
+	<multimonitor default_display="a4af3a73aea1395cfc031a2468287a62">
+		<display id="a4af3a73aea1395cfc031a2468287a62" layout="multimon_layout_4_slot">
+			<assignment slot="1" shot="6b12c54d-7a63-41e6-b11d-b846b3d84c94_shot"/>
+			<assignment slot="2" shot="87f1bc7f-5220-4b70-b767-bc0561afb695_shot"/>
+			<assignment slot="3" shot="7e854049-815f-4617-b575-267f8f442d1e_shot"/>
+			<assignment slot="4" shot="__live-shot-id__"/>
+		</display>
+		<display id="b4a846d1b3d4d627c3f12e057c413bfe"/>
+	</multimonitor>
+	<volume value="1.99431"/>
+	<preview_volume value="1.99431"/>
+	<auto_live value="0"/>
+	<flip_flop value="1"/>
+	<output_annotations/>
+	<transition_duration/>
+	<visual_style/>
+	<single_output/>
+	<layer_names/>
+	<layer_scales layer_0="0.5" layer_1="0.5" layer_2="0.5" layer_3="0.1" layer_4="0.1"/>
+	<layer_heights layer_3="1" layer_0="92" layer_1="92" layer_4="1"/>
+	<layer_visible/>
+	<sections/>
+	<aspectRatio custom_width="1920" custom_height="1080" type="825243696"/>
+	<shot_key_map>
+		<key_map uuid="099be040-50fe-46fb-9568-d8e2651319ea">
+			<shot value="7a9cc460-d773-4d11-98e0-e17c8ac3bebe_shot"/>
+			<shot value="544115ec-263a-486c-a677-e7ac5939aeda_shot"/>
+			<shot value="87f1bc7f-5220-4b70-b767-bc0561afb695_shot"/>
+		</key_map>
+		<key_map uuid="9a3ab926-c5eb-48fc-993f-79c59bae458c">
+			<shot value="7e854049-815f-4617-b575-267f8f442d1e_shot"/>
+		</key_map>
+		<key_map uuid="fa6f39b3-865f-4a98-80db-d82d00e0ca35">
+			<shot value="6b12c54d-7a63-41e6-b11d-b846b3d84c94_shot"/>
+		</key_map>
+		<key_map uuid="9b2ebd47-b6c6-4b89-8707-2048f10d7c09">
+			<shot value="442fcfe2-587c-4fb0-bcab-8957219db2ff_shot"/>
+		</key_map>
+	</shot_key_map>
+	<source_group_counters>
+		<group guid="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" value="1"/>
+	</source_group_counters>
+	<transition_interpolator value="-- SMOOTH --"/>
+	<ptz_settings/>
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot"/>
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="abc860c7-27f4-4b3a-9cbf-c90b7c104ad3_shot"/>
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="87f1bc7f-5220-4b70-b767-bc0561afb695_shot"/>
+		<xml_tag vaLayerIndex="3" beLayerEnum="4" vaLayerEnum="1836282931" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot"/>
+		<xml_tag vaLayerIndex="4" beLayerEnum="5" vaLayerEnum="1836282932" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot"/>
+	</shotsLiveWhenSaved>
+	<source_sdk_settings/>
+	<social_media GUID_prefix="ad891b0c-3b93-43c3-b64b-98b8bfcfd3dd" use_twitter="1">
+		<twitter_setting is_valid_credential="0" username="" twitter_auth_moode="0"/>
+	</social_media>
+	<source_configurations>
+		<source unique_id="9c07e532-0d90-4c37-abcc-5a7f540ab137" factoryGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" manuallyAddedSource="1" template_instance_id="" prettyname="Solid Color 1" localizedDisplayName="Solid Color" groupGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" localizedGroupingName="Solid Color" productionFlags="1" categories="32">
+			<xml_tag width_constrained="0" height_constrained="0" constrained_width="1920" constrained_height="1080" web_width="1920" web_height="1080" plugin="SolidColor" title="Solid Color" web_url="file://C:\Program Files\Telestream\Wirecast\eva_plugins\Sources\WidgetSDK\solid_color/solid-color.html" web_transparent="1" web_override_css="" widget_settings="{&quot;_renderer&quot;:{&quot;client_height&quot;:true,&quot;client_width&quot;:true,&quot;constrained_geometry&quot;:{&quot;height&quot;:true,&quot;width&quot;:true},&quot;height_constrained&quot;:false,&quot;width_constrained&quot;:false},&quot;colors&quot;:{&quot;backgroundColor&quot;:&quot;#000000FF&quot;,&quot;gradientColor1&quot;:&quot;#FFFFFF&quot;,&quot;gradientColor2&quot;:&quot;#000000&quot;},&quot;gradientAngle&quot;:&quot;0.00&quot;,&quot;gradientEnabled&quot;:false,&quot;gradientType&quot;:0,&quot;solidEnabled&quot;:true}"/>
+		</source>
+	</source_configurations>
+	<document_thumbnail thumbnail="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"/>
+	<game_overlay_position/>
+	<screename/>
+	<assets>
+		<asset name="Blank Shot" unique_id="f5966ebe-c5f0-4fba-8fea-e93f5789746c_shot" type="shot" media-type="9" sort_on_text="0" created_for_layer="5" blank_shot="1" visible="1" vam_state="1"/>
+		<asset name="Blank Shot" unique_id="b8dd6014-fbee-4688-8b2c-6574db4e3306_shot" type="shot" media-type="9" sort_on_overlay="0" created_for_layer="1" blank_shot="1" visible="1" vam_state="7"/>
+		<asset name="Blank Shot" unique_id="239773ad-4ebc-42be-942d-1e9f74b4a67e_shot" type="shot" media-type="9" sort_on_normal="0" created_for_layer="2" blank_shot="1" visible="1" vam_state="1"/>
+		<asset name="Blank Shot" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot" type="shot" media-type="9" vam_state="7" created_for_layer="3" blank_shot="1" visible="1"/>
+		<asset name="Blank Shot" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot" type="shot" media-type="9" visible="1" created_for_layer="4" blank_shot="1" vam_state="7"/>
+		<asset name="Dante 11-12" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot" type="shot" media-type="9" sort_on_text="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" audio_tracks="1" video_tracks="0" created_for_layer="5" visible="1" vam_state="14"/>
+		<asset type="vaSourcesManager" unique_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" name="DVS Receive  1-2 (Dante Virtual Soundcard)" url="vaSourcesManager::URL" media-type="3" raster_type="0" audio_tracks="1" sourceGUID="1797DA84-CE0E-46F0-9104-51BF75D1C4C4"/>
+		<asset name="2 (HD)" unique_id="6b12c54d-7a63-41e6-b11d-b846b3d84c94_shot" type="shot" media-type="9" vam_state="8" created_for_layer="2" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="1" visible="1" sort_on_playlist="2" created_for_playlist="" shot_in_playlist="0" sort_on_normal="3"/>
+		<asset name="3 (HD)" unique_id="87f1bc7f-5220-4b70-b767-bc0561afb695_shot" type="shot" media-type="9" vam_state="10" visible="1" alpha_track_count="1" audio_tracks="1" veil_track_count="0" still_image_tracks="0" created_for_layer="2" video_tracks="1" sort_on_normal="4"/>
+		<asset name="resume-in-a-moment.jpg" url="C:\TenthTech\configurations\resume-in-a-moment.jpg" type="file" still_image_tracks="1" media-type="1" unique_id="6ead5046-63b5-450d-a360-c315701adc90_resume-in-a-moment.jpg" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_height="1080" square_pixel_width="1920" raster_type="1919378017"/>
+		<asset name="BRB" unique_id="aea0c795-2785-4698-b360-bd905439482f_shot" type="shot" media-type="9" vam_state="0" visible="1" video_tracks="0" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" created_for_layer="5" sort_on_text="2" audio_tracks="0"/>
+		<asset name="1 (SD)" unique_id="442fcfe2-587c-4fb0-bcab-8957219db2ff_shot" type="shot" media-type="9" vam_state="8" created_for_layer="2" veil_track_count="0" audio_tracks="1" video_tracks="1" still_image_tracks="0" alpha_track_count="1" visible="1" sort_on_normal="2"/>
+		<asset name="IMG_8419.JPG" url="C:\Users\User\Desktop\Stills\IMG_8419.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="2b8d7fc6-2537-45a5-82e2-2afe6067c8fb_IMG_8419.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8419.JPG" unique_id="ce69cea3-7e69-4007-b88e-ff33026e3f46_shot" type="shot" media-type="9" vam_state="0" visible="1" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" created_for_layer="2" sort_on_normal="6" video_tracks="0"/>
+		<asset name="IMG_8420.JPG" url="C:\Users\User\Desktop\Stills\IMG_8420.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="1912ff5a-8cd5-4a13-a120-b2080fb42008_IMG_8420.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8420.JPG" unique_id="4514ffbd-deab-4d46-a146-97df679baf3e_shot" type="shot" media-type="9" vam_state="0" visible="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" video_tracks="0" created_for_layer="2" sort_on_normal="7" still_image_tracks="1"/>
+		<asset name="IMG_8425.JPG" url="C:\Users\User\Desktop\Stills\IMG_8425.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="325c1e42-8574-47ef-899b-274eca283b40_IMG_8425.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8425.JPG" unique_id="e721f3cf-6f8d-4607-b417-d6150e2b9e44_shot" type="shot" media-type="9" vam_state="0" visible="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" video_tracks="0" created_for_layer="2" sort_on_normal="8" still_image_tracks="1"/>
+		<asset name="P1020029.JPG" url="C:\Users\User\Desktop\Stills\P1020029.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="44e18fb2-8ff9-4154-a4b3-c6803bc530bc_P1020029.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="4608" square_pixel_height="3072" raster_type="1919378017"/>
+		<asset name="P1020029.JPG" unique_id="0da4f3e3-e345-4147-980e-eac765dc999b_shot" type="shot" media-type="9" vam_state="0" visible="1" video_tracks="0" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" created_for_layer="2" sort_on_normal="9" audio_tracks="0"/>
+		<asset name="P1020116.JPG" url="C:\Users\User\Desktop\Stills\P1020116.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="b3945118-0c3e-433b-8407-4030807fb731_P1020116.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="4608" square_pixel_height="3072" raster_type="1919378017"/>
+		<asset name="P1020116.JPG" unique_id="41924ab1-cc03-498e-b403-e3c31403c963_shot" type="shot" media-type="9" vam_state="0" visible="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" video_tracks="0" created_for_layer="2" sort_on_normal="10" still_image_tracks="1"/>
+		<asset name="P1020025.JPG" url="C:\Users\User\Desktop\Stills\P1020025.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="39376546-f1ec-43ea-bf75-a0c4d2601b41_P1020025.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="4608" square_pixel_height="3072" raster_type="1919378017"/>
+		<asset name="P1020025.JPG" unique_id="2570582b-b855-423e-a40b-cfe3c7d713a0_shot" type="shot" media-type="9" vam_state="0" visible="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" video_tracks="0" created_for_layer="2" sort_on_normal="11" still_image_tracks="1"/>
+		<asset name="P1020069.JPG" url="C:\Users\User\Desktop\Stills\P1020069.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="4ec21483-86fa-4ea4-bcb8-250e58b1aaa0_P1020069.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="4608" square_pixel_height="3072" raster_type="1919378017"/>
+		<asset name="P1020069.JPG" unique_id="ad4f0dd9-7200-4abc-bfb4-50109271ad7b_shot" type="shot" media-type="9" vam_state="0" visible="1" video_tracks="0" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" created_for_layer="2" sort_on_normal="12" audio_tracks="0"/>
+		<asset name="IMG_8433.JPG" url="C:\Users\User\Desktop\Stills\IMG_8433.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="94cfb5c9-cf68-4d7e-aa71-f32a5e87aa60_IMG_8433.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8433.JPG" unique_id="347e49e5-b40d-441c-89a8-c621058be138_shot" type="shot" media-type="9" vam_state="0" visible="1" alpha_track_count="1" audio_tracks="0" video_tracks="0" still_image_tracks="1" created_for_layer="2" sort_on_normal="13" veil_track_count="0"/>
+		<asset name="P1020021.JPG" url="C:\Users\User\Desktop\Stills\P1020021.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="68276662-1a23-406b-bab3-33791a8a59eb_P1020021.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="4608" square_pixel_height="3072" raster_type="1919378017"/>
+		<asset name="P1020021.JPG" unique_id="82e23f8a-17c0-4ce0-90a4-4ae95585cec6_shot" type="shot" media-type="9" vam_state="0" visible="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" video_tracks="0" created_for_layer="2" sort_on_normal="14" still_image_tracks="1"/>
+		<asset name="IMG_8426.JPG" url="C:\Users\User\Desktop\Stills\IMG_8426.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="0430c065-84c9-4365-8207-f12fff09b7a4_IMG_8426.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8426.JPG" unique_id="3dfa3f8b-4f4e-48b4-b70d-89c748ede71a_shot" type="shot" media-type="9" vam_state="0" visible="1" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" created_for_layer="2" sort_on_normal="15" video_tracks="0"/>
+		<asset name="IMG_8421.JPG" url="C:\Users\User\Desktop\Stills\IMG_8421.JPG" type="file" still_image_tracks="1" media-type="1" unique_id="1e61db12-4c68-47d9-9036-9908ba7f3966_IMG_8421.JPG" timescale="3000" duration="15000" alpha_track_count="1" square_pixel_width="3264" square_pixel_height="2448" raster_type="1919378017"/>
+		<asset name="IMG_8421.JPG" unique_id="bb9477df-a9d4-4239-86ea-07a9d5e79603_shot" type="shot" media-type="9" vam_state="0" visible="1" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" audio_tracks="0" created_for_layer="2" sort_on_normal="16" video_tracks="0"/>
+		<asset name="4 (Wide)" unique_id="7e854049-815f-4617-b575-267f8f442d1e_shot" type="shot" media-type="9" vam_state="12" created_for_layer="2" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="1" audio_tracks="1" visible="1" sort_on_normal="5"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:1" name="SDI 2" video_tracks="1" audio_tracks="1" raster_type="0" square_pixel_width="1920" square_pixel_height="1080" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:2" name="SDI 3" video_tracks="1" audio_tracks="1" raster_type="0" square_pixel_width="1920" square_pixel_height="1080" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:3" name="SDI 4" video_tracks="1" audio_tracks="1" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2" square_pixel_height="1080" raster_type="0" square_pixel_width="1920"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:0" name="SDI 1" video_tracks="1" audio_tracks="1" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2" raster_type="0"/>
+		<asset name="C_TenthPC_white.png" url="C:\Users\User\Desktop\C_TenthPC_white.png" type="file" still_image_tracks="1" media-type="1" unique_id="324f671c-c71f-4ab3-aaab-2e992f515be6_C_TenthPC_white.png" alpha_track_count="1" square_pixel_height="254" raster_type="1919378017" square_pixel_width="428"/>
+		<asset name="C_TenthPC_white.png" unique_id="ec04c04d-500b-49a6-861a-c1e290b8663e_shot" type="shot" media-type="9" created_for_layer="1" audio_tracks="0" video_tracks="0" still_image_tracks="1" veil_track_count="0" alpha_track_count="1" sort_on_overlay="3"/>
+		<asset media-type="2" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="9c07e532-0d90-4c37-abcc-5a7f540ab137" name="Solid Color 1" video_tracks="1" audio_tracks="0" sourceGUID="D82F793C-6F5B-3376-F53B-EF2ED8CE7F28" square_pixel_width="1920" raster_type="1380401729" square_pixel_height="1080"/>
+		<asset name="BLACK" unique_id="b539dac8-8cdd-422c-8e02-730ed3f34639_shot" type="shot" media-type="9" sort_on_normal="1" audio_tracks="0" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="2"/>
+		<asset name="Outro Logo.mov" url="C:\Users\User\Desktop\Outro Logo.mov" type="file" video_tracks="1" media-type="1" unique_id="a3ac3cf1-8d39-4b2a-acb0-f8070f4e57f7_Outro Logo.mov" timescale="30000" duration="180180" alpha_track_count="1" square_pixel_height="1080" square_pixel_width="1920" raster_type="1919378017"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~TENTH-18044 (PPTNDI)" name="TENTH-18044 (PPTNDI)" video_tracks="1" audio_tracks="1" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" raster_type="846624121" square_pixel_width="1920" square_pixel_height="1080"/>
+		<asset name="TENTH-18044 (PPTNDI)" unique_id="abc860c7-27f4-4b3a-9cbf-c90b7c104ad3_shot" type="shot" media-type="9" sort_on_overlay="2" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="1"/>
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="Intensity Shuttle_1" chroma_config_id="2632"/>
+		<chroma_key_configuration unique_id="DVS Receive  1-2 (Dante Virtual::" chroma_config_id="2633"/>
+		<chroma_key_configuration unique_id="XI100DUSB-HDMI Video::\\?\usb#vid_2935&amp;pid_0001&amp;mi_00#7&amp;2db02917&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" chroma_config_id="2634"/>
+		<chroma_key_configuration unique_id="a94a7d48-f564-40c7-bf45-f02ebdde8352_130320-03.jpg" chroma_config_id="2635"/>
+		<chroma_key_configuration unique_id="af858388-4ca0-46a6-8249-f6c584de79f4_C_TenthPC_rgb_green_72dpi.jpg" chroma_config_id="2636"/>
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="f5966ebe-c5f0-4fba-8fea-e93f5789746c_shot"/>
+		<shot event_type="2" unique_id="b8dd6014-fbee-4688-8b2c-6574db4e3306_shot"/>
+		<shot event_type="2" unique_id="239773ad-4ebc-42be-942d-1e9f74b4a67e_shot"/>
+		<shot event_type="2" unique_id="10aaddfc-ebbd-4749-ba01-b1a26a046773_shot"/>
+		<shot event_type="2" unique_id="a72eef08-5ffa-4d09-9e9e-d392bb0135c2_shot"/>
+		<shot event_type="2" unique_id="79528d41-1938-409d-90da-971ccbf8d34d_shot">
+			<event event_type="4" zorder="5">
+				<event event_type="2" channel_id="1" respect_actual_size="1" unique_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" obj_contrast="0.5" obj_scale="0.666667,0.666667">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="6b12c54d-7a63-41e6-b11d-b846b3d84c94_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" mute="1" unique_id="magewellsource:C109170830043:1">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="87f1bc7f-5220-4b70-b767-bc0561afb695_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="magewellsource:C109170830043:2">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="aea0c795-2785-4698-b360-bd905439482f_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="6ead5046-63b5-450d-a360-c315701adc90_resume-in-a-moment.jpg">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="442fcfe2-587c-4fb0-bcab-8957219db2ff_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" mute="1" unique_id="magewellsource:C109170830043:0">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="ce69cea3-7e69-4007-b88e-ff33026e3f46_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.588957,0.588957" obj_scale="1.00123,1.33497" unique_id="2b8d7fc6-2537-45a5-82e2-2afe6067c8fb_IMG_8419.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" action_flags="24" ro_playhead="0" action_time="7600000" action_duration="0"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="4514ffbd-deab-4d46-a146-97df679baf3e_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.638037,0.638037" obj_scale="1.08466,1.44622" unique_id="1912ff5a-8cd5-4a13-a120-b2080fb42008_IMG_8420.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479" action_flags="24" ro_playhead="0" action_time="21800000" action_duration="0"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="e721f3cf-6f8d-4607-b417-d6150e2b9e44_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.613497,0.613497" obj_scale="1.04294,1.39059" unique_id="325c1e42-8574-47ef-899b-274eca283b40_IMG_8425.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="0da4f3e3-e345-4147-980e-eac765dc999b_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" obj_scale="1.00123,1.18664" ro_user_scale="0.417178,0.417178" unique_id="44e18fb2-8ff9-4154-a4b3-c6803bc530bc_P1020029.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="41924ab1-cc03-498e-b403-e3c31403c963_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.466258,0.466258" obj_scale="1.11902,1.32624" unique_id="b3945118-0c3e-433b-8407-4030807fb731_P1020116.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="2570582b-b855-423e-a40b-cfe3c7d713a0_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.441718,0.441718" obj_scale="1.06012,1.25644" unique_id="39376546-f1ec-43ea-bf75-a0c4d2601b41_P1020025.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="ad4f0dd9-7200-4abc-bfb4-50109271ad7b_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.539877,0.539877" obj_scale="1.2957,1.53565" obj_pos="-1.10156,-0.0555556" unique_id="4ec21483-86fa-4ea4-bcb8-250e58b1aaa0_P1020069.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="347e49e5-b40d-441c-89a8-c621058be138_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.687117,0.687117" obj_scale="1.1681,1.55747" obj_pos="-0.548437,-0.494444" unique_id="94cfb5c9-cf68-4d7e-aa71-f32a5e87aa60_IMG_8433.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="82e23f8a-17c0-4ce0-90a4-4ae95585cec6_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.417178,0.417178" obj_scale="1.00123,1.18664" unique_id="68276662-1a23-406b-bab3-33791a8a59eb_P1020021.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="3dfa3f8b-4f4e-48b4-b70d-89c748ede71a_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.760736,0.760736" obj_scale="1.29325,1.72433" obj_pos="-1.02188,1.54444" unique_id="0430c065-84c9-4365-8207-f12fff09b7a4_IMG_8426.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="bb9477df-a9d4-4239-86ea-07a9d5e79603_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.613497,0.613497" obj_scale="1.04294,1.39059" obj_pos="-0.117188,-0.8" unique_id="1e61db12-4c68-47d9-9036-9908ba7f3966_IMG_8421.JPG">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="7e854049-815f-4617-b575-267f8f442d1e_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" mute="1" unique_id="magewellsource:C109170830043:3">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="ec04c04d-500b-49a6-861a-c1e290b8663e_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" obj_scale="0.222917,0.235185" unique_id="324f671c-c71f-4ab3-aaab-2e992f515be6_C_TenthPC_white.png">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="b539dac8-8cdd-422c-8e02-730ed3f34639_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" unique_id="9c07e532-0d90-4c37-abcc-5a7f540ab137">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="abc860c7-27f4-4b3a-9cbf-c90b7c104ad3_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" unique_id="NDICaptureDevice~TENTH-18044 (PPTNDI)">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
