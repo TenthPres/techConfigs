@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "D:\Edited"
+  RENDER_FILE "C:\Users\TenthWebcast\Tenth Presbyterian Church\Control Room - Sermon MP3s"
   RENDER_PATTERN $project
   RENDER_FMT 0 1 44100
   RENDER_1X 0
