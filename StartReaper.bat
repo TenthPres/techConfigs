@@ -16,15 +16,6 @@ git remote prune origin
 git pull --rebase
 
 
-
-echo Making sure Dante is running...
-
-:: ptp is the Dante Clock Sync process, which appears to be the only process that runs only when DVS is running. 
-QPROCESS "ptp.exe">NUL
-IF %ERRORLEVEL% EQU 1 powershell (New-Object -ComObject Wscript.Shell).Popup("""It appears that Dante Virtual Soundcard needs to be started manually.""",0,"""Dante?""",0x10)
-
-
-
 echo Setting Date Variables...
 
 For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
@@ -38,8 +29,8 @@ xcopy /s /q /y .\Reaper\Templates "%userprofile%\AppData\Roaming\REAPER\ProjectT
 
 echo Creating directory for service...
 
-if not exist "%cd%\..\Recordings\" mkdir "%cd%\..\Recordings\" (
-	mkdir "%cd%\..\Recordings\%mydate% %mytime%"
+if not exist "M:\Recordings\" mkdir "%cd%\..\Recordings\" (
+	mkdir "M:\Recordings\%mydate% %mytime%"
 )
 
 
@@ -47,15 +38,11 @@ echo Starting Reaper...
 
 SET templateFile=Livestream Only Mixing.rpp
 
-REM for x32 computers
-if exist "c:\Program Files\REAPER" (
-	Start "" "c:\Program Files\REAPER\reaper.exe" -template "%cd%\Reaper\Templates\%templateFile%" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
-
-) else if exist "c:\Program Files (x86)\REAPER" (
 REM for x64 computers
-	Start "" "c:\Program Files (x86)\REAPER\reaper.exe" -template "%cd%\Reaper\Templates\%templateFile%" -saveas "%cd%\..\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
+if exist "c:\Program Files\REAPER (x64)" (
+	Start "" "c:\Program Files\REAPER (x64)\reaper.exe" -template "%cd%\Reaper\Templates\%templateFile%" -saveas "M:\Recordings\%mydate% %mytime%\%mydate% %mytime%.rpp" -newinst
 
-) else powershell (New-Object -ComObject Wscript.Shell).Popup("""It appears that Reaper isn't installed.  Please install the 32-bit version.""",0,"""Reaper?""",0x10)
+) else powershell (New-Object -ComObject Wscript.Shell).Popup("""It appears that Reaper isn't installed.  Please install the 64-bit version.""",0,"""Reaper?""",0x10)
 REM for computers that don't have Reaper
 
 
