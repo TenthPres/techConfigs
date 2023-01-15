@@ -17,7 +17,7 @@ QPROCESS "ptp.exe">NUL
 IF %ERRORLEVEL% EQU 1 msg "%username%" Dante Virtual Soundcard needs to be manually started.
 
 
-start "OBS for Facebook" /D "C:\Program Files\obs-studio\bin\64bit\" /MIN "obs64.exe" --multi --collection "1 Only" --profile "Sunday" --scene "Sunday" --startstreaming
+REM start "OBS for Facebook" /D "C:\Program Files\obs-studio\bin\64bit\" /MIN "obs64.exe" --multi --collection "1 Only" --profile "Sunday" --scene "Sunday" --startstreaming
 
 timeout 4
 
