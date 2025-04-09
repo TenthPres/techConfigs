@@ -1,4 +1,4 @@
-<document version="21" os="windows" unique_id="08a61546-8a0a-444e-acbf-9c47dd921168" original_document_path="C:\TenthTech\configurations\Wirecast\TEMPLATE.wcst">
+<document version="22" os="windows" unique_id="08a61546-8a0a-444e-acbf-9c47dd921168" original_document_path="C:\TenthTech\configurations\Wirecast\TEMPLATE.wcst">
 	<social_media rotation_enabled="0" rotation_frequency="5000" sync_fb_en="1" sync_yt_en="1"/>
 	<open_windows>
 		<vamWindowGlass frame="-16,-8,1903,1031" vam_main_splitter="0.528796" window_class="1937007191" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282928" eWindow_win_showcmd="3"/>
@@ -30,7 +30,7 @@
 		</preset>
 		<preset output_presetname="Default: 1080p30 (4Mbps) x264 H.264" show_in_gui="1" group="Flash">
 			<movie format="Flash" output_system="">
-				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" field_order="0" color_space="0" nominal_range="0" bpr="0" audioformat="1936684916" bps="0" busses="1" channels="0" samplerate="0" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4500" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1986618479" mo_width="1920" mo_height="1080" colourspace="846624121" field_order="0" color_space="0" nominal_range="0" bpr="0" audioformat="1936684916" bps="0" busses="1" channels="0" samplerate="0" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="4000" profile="1650553701" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
 				<track type="1635083375" mo_width="0" mo_height="0" colourspace="0" field_order="0" color_space="0" nominal_range="0" bpr="0" audioformat="1936684916" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="192" timescale="48000"/>
 			</movie>
 		</preset>
@@ -53,7 +53,7 @@
 			</movie>
 		</preset>
 		<preset output_presetname="net.telestream.NDIOutput" show_in_gui="0" group="NDIOutput">
-			<movie format="NDIOutput" output_system="NDIOutput" output_sdk_preset_xml="ndiout_preset_token" output_sdk_guid="3c663d8d-cab2-4360-98e7-5a36e3cd8f4e" is_dynamic="1">
+			<movie format="NDIOutput" output_system="NDIOutput" output_sdk_preset_xml="ndiout_preset_token" output_sdk_guid="3a1748e3-5e2c-4e26-a564-fd047b51875e" is_dynamic="1">
 				<track type="1986618479" mo_width="100" mo_height="100" colourspace="846624121" field_order="0" color_space="0" nominal_range="0" bpr="0" audioformat="1936684916" bps="0" busses="1" channels="0" samplerate="0" mo_enabled="1" codecname="H.264" fps="15" compressed="1" timescale="1500" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
 				<track type="1635083375" mo_width="0" mo_height="0" colourspace="0" field_order="0" color_space="0" nominal_range="0" bpr="0" audioformat="1936684916" bps="16" busses="1" channels="2" samplerate="48000" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="48000"/>
 			</movie>
@@ -208,10 +208,9 @@
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~BD-CORNER (CAM)" name="BD-CORNER (CAM)" video_tracks="1" audio_tracks="1" video_scaling_preference="1" previous_square_pixel_height="720" previous_square_pixel_width="1280" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" square_pixel_width="1920" square_pixel_height="1080" raster_type="1228157490"/>
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~BD-BALC (CAM)" name="BD-BALC (CAM)" video_tracks="1" audio_tracks="1" video_scaling_preference="1" previous_square_pixel_width="1920" previous_square_pixel_height="1080" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" square_pixel_width="1920" square_pixel_height="1080" raster_type="1228157490"/>
 		<asset name="ASL" unique_id="a696798d-f4f3-4518-acd5-581b185768b8_shot" type="shot" media-type="9" sort_on_text="2" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5"/>
-		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:2" name="SDI 3" video_tracks="1" audio_tracks="1" video_scaling_preference="1" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2" square_pixel_width="1920" square_pixel_height="1080" raster_type="0"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:2" name="SDI 3" video_tracks="1" audio_tracks="1" video_scaling_preference="1" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2" square_pixel_width="1920" square_pixel_height="1080" raster_type="846624121"/>
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="magewellsource:C109170830043:3" name="SDI 4" video_tracks="1" audio_tracks="1" video_scaling_preference="1" sourceGUID="89892268-1027-4091-9C4B-41B9577141B2" square_pixel_width="1920" square_pixel_height="1080" raster_type="1228157490" channels="8"/>
 		<asset name="Center" unique_id="b565e948-2100-49e5-9ea6-72dcdae2c904_shot" type="shot" media-type="9" sort_on_normal="6" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="2"/>
-		<asset name="Audio" unique_id="ecdca8ee-e9b2-4010-884b-b25fc7b17871_shot" type="shot" media-type="9" sort_on_text="1" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5"/>
 		<asset media-type="3" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="wasapi-capture~DVS Receive  1-2 (Dante Virtual Soundcard)" name="DVS Receive  1-2 (Dante Virtual Soundcard)" video_tracks="0" audio_tracks="1" square_pixel_width="1280" square_pixel_height="720" sourceGUID="82493920-87E5-D76F-F917-3B2DFAC1B83B" raster_type="0"/>
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~TENTH-21008 (PPTNDI)" name="TENTH-21008 (PPTNDI)" video_tracks="1" audio_tracks="1" video_scaling_preference="1" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" square_pixel_width="1920" square_pixel_height="1080" raster_type="1919378017"/>
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~WEBCAST1 (Wirecast Live Output)" name="WEBCAST1 (Wirecast Live Output)" video_tracks="1" audio_tracks="1" channels="2" video_scaling_preference="1" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" square_pixel_width="1920" square_pixel_height="1080" raster_type="0" previous_square_pixel_width="1920" previous_square_pixel_height="1080"/>
@@ -220,6 +219,7 @@
 		<asset name="Loop" unique_id="02d789fb-e2b0-4fe3-bb78-5db4c902118f_shot" type="shot" media-type="9" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="2" sort_on_normal="8"/>
 		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="NDICaptureDevice~BD-FH (CAM)" name="BD-FH (CAM)" video_tracks="1" audio_tracks="1" channels="0" video_scaling_preference="1" sourceGUID="57D67C56-37E9-474D-ADCE-E690FAD865AD" raster_type="1228157490" square_pixel_width="1920" square_pixel_height="1080"/>
 		<asset name="FH" unique_id="87217818-1701-4f96-8eec-62598c22c897_shot" type="shot" media-type="9" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="2" sort_on_normal="7"/>
+		<asset name="Audio" unique_id="07c4e0e1-0e90-4e92-8cff-5b4051e86b5b_shot" type="shot" media-type="9" audio_tracks="1" video_tracks="1" still_image_tracks="0" veil_track_count="0" alpha_track_count="0" created_for_layer="5" sort_on_text="1"/>
 	</assets>
 	<shots>
 		<shot event_type="2" unique_id="f5966ebe-c5f0-4fba-8fea-e93f5789746c_shot"/>
@@ -303,13 +303,6 @@
 				</event>
 			</event>
 		</shot>
-		<shot event_type="2" unique_id="ecdca8ee-e9b2-4010-884b-b25fc7b17871_shot">
-			<event event_type="4" zorder="5">
-				<event event_type="2" channel_id="1" obj_trans="0" unique_id="wasapi-capture~DVS Receive  1-2 (Dante Virtual Soundcard)" obj_normcrop_lt="-1,-1" obj_normcrop_rb="1,1" ro_user_scale="0.666667,0.666667" scaling_mode="131073">
-					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
-				</event>
-			</event>
-		</shot>
 		<shot event_type="2" unique_id="b8b9751d-05f7-493f-9a76-bcb8267aaf6f_shot">
 			<event event_type="4" zorder="5" unique_id="one_quad">
 				<event event_type="2" channel_id="1" unique_id="NDICaptureDevice~WEBCAST1 (Wirecast Live Output)" interact_with_content="0" line_color="255,255,255">
@@ -331,6 +324,13 @@
 				<event event_type="2" channel_id="1" unique_id="NDICaptureDevice~BD-FH (CAM)" interact_with_content="0" line_color="255,255,255">
 					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
 					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="07c4e0e1-0e90-4e92-8cff-5b4051e86b5b_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" unique_id="DirectShowAudio:DVS Receive  1-2 (Dante Virtual Soundcard):0" channel_bus_quad0="281479271743489" channel_bus_quad1="281479271743489" channel_bus_quad2="281479271743489" channel_bus_quad3="281479271743489">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
 				</event>
 			</event>
 		</shot>
