@@ -22,6 +22,10 @@ For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
 For /f "tokens=1-3 delims=/:/ " %%a in ('time /t') do (set mytime=%%a%%c)
 
 
+echo Launching YouTube Studio...
+start http://west.tenth.org/live/json/YouTubeStudio.php
+
+
 echo Copying template for this service...
 mkdir "%userprofile%\videos\Wirecast Documents"
 copy "%cd%\Wirecast\TEMPLATE.wcst" "%userprofile%\videos\Wirecast Documents\%mydate% %mytime%.wcst"
